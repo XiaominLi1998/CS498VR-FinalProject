@@ -1,0 +1,2001 @@
+,vocab,meaning
+4000,aa,n 苹果
+4001,bb,n 香蕉
+4002,ooo,n 橙子
+4003,rr,n 红色
+4004,ab,n 闯入者，侵入者
+4005,ba,n 生物学者
+4006,aba,n 顺序
+4007,aaa,1 n 论点；争端2 v 颁布，发行3 v 流出，涌出
+4008,bbb,v 献给，奉献；（把精力、时间等）专门用于某事（to）
+4009,ccc,v （用篱、墙等）围起，圈起，包围，围绕
+4010,ddd,a 空间的
+4011,normal,a 正常的，平常的，普通的；正规的，标准的，额定的
+4012,incongruous,a 不调和的，不相称的
+4013,correlate,n&v 互相关联，互相关系（with；to）
+4014,resonance,n 回声，反响；共鸣
+4015,incubate,v 孵卵；孵化
+4016,strikingly,ad 显著地，明显地，触目地，惊人地
+4017,ceramics,n 陶瓷学；陶瓷工艺，制陶术
+4018,enzyme,n 酶
+4019,prevent,v 阻止，阻挡；制止；妨碍（from）
+4020,monochrome,a 单色的，一色的  n 单色画（照片）
+4021,neglect,n&v 疏忽；忽略；玩忽，轻忽；轻视，忽视
+4022,specialty,n 特制品；新产品；专门，专业
+4023,maintenance,n 保持，维持，保养；支持的手段
+4024,qualify,v 使具有资格；准予；使适宜
+4025,tax,n 税，租税  v 对……抽税，征税
+4026,deserve,v 应受，该得，值得
+4027,engage,v [多用被动语态]使从事，使忙于（in）
+4028,capable,1 a 有技能的，有资格的（for）2 a 可以……的；能……的；易……的（of）
+4029,insert,v 插进，夹入
+4030,prey,n 被捕食的动物，牺牲者，牺牲品
+4031,akin,a 同样的，类似的（be akin to……）
+4032,tight,1 a 紧密的，正合身的2 a 严格的，严厉的
+4033,segregate,v 分开；分离；隔开（[opp]integrate）
+4034,bounce,v 弹起，反跳，弹回
+4035,faith,n 信仰，信心
+4036,sculptor,n 雕刻（塑）家；雕刻（塑）工人
+4037,algae,n [pl]藻；藻类（[sing]alga）
+4038,travel,v 漫游，游览，周游  n 旅行
+4039,hardness,n 坚固，冷酷无情，苛刻，困难
+4040,cable,n 粗索，巨缆；电缆
+4041,passage,n 通行，通过；经过；转变，演变
+4042,subdivide,v 再分；细分
+4043,barb,n 倒钩，倒刺
+4044,cord,n 绳子，索子
+4045,strain,1 n 拉紧；紧张；使用过度2 n 品系，系；菌株；变种
+4046,metropolis,n 首都，主要都市；（产业、艺术等的）中心
+4047,converge,v 会聚，集中
+4048,damp,n 湿气，潮湿  a 有湿气的，潮湿的  v 弄湿，打湿
+4049,startling,a 令人吃惊的
+4050,rare,1 a 稀少的；（空气等）稀薄的；（群岛、星等）稀疏的2 a 稀有的，珍奇的；极好的，珍贵的
+4051,subway,n 地道；地下铁道（列车）
+4052,vibrate,v 摇动，振动；颤动
+4053,aware,a [用作表语]知道，晓得，发觉，觉得
+4054,utilitarian,a 功利的；实用主义的
+4055,pilot,n 飞行员；领航员
+4056,mercury,n 贡，水银；（M-）水星
+4057,buckle,n 扣子，带扣；（衣，鞋等）扣形装饰品
+4058,slip,1 v 滑动；滑脱；滑落2 n 润滑性
+4059,exotic,a 异国情调的；异乎寻常的；[口]奇异的；吸引人的
+4060,pack,v 包，把……打包，包装
+4061,consecutive,a 连续的
+4062,purification,n 清洗，洗净；净化（作用），提纯，精制
+4063,coach,1 n 轿式马车2 n 教练  v 训练
+4064,shortage,n 不足，缺少；不足额；缺点，缺陷
+4065,evolve,v 发展；进化
+4066,particle,n 颗粒，微粒
+4067,fossil,n 化石
+4068,saber,n 军刀，马刀
+4069,remnant,n 剩余，残屑
+4070,stout,a 结实的；坚强的；坚牢的（[opp]flimsy）
+4071,frustrate,v 挫败（敌人）；破坏（计划等），阻挠
+4072,polygon,n 多边形，多角形
+4073,drain,v 排去（水等液体）  n 排水渠
+4074,harsh,a 粗糙的；荒芜的；不毛的
+4075,plastic,n 塑料；塑料制品
+4076,anthropology,n 人类学
+4077,moss,n 苔藓；地衣
+4078,chimpanzee,n 黑猩猩
+4079,serene,a 宁静的；（性情）沉静的
+4080,diffuse,v 扩散；渗出
+4081,span,1 n 一段时间；很小的间隔；片刻，顷刻2 v 横跨，跨越  n 跨度，跨距，范围3 v 达到，及
+4082,stitch,v 缝，缝合；钉
+4083,save,prep 除……以外，除了
+4084,cope,v 善于对付，克服（困难等）（with）
+4085,repair,1 n&v 修理，修补2 n （健康等的）恢复
+4086,compass,n 罗盘，指南针
+4087,trunk,n 树干；躯干
+4088,microscopic,a 用显微镜可见的；微观的；极微的（[opp]macroscopic）
+4089,complex,n [化]络合物；复合物，综合体
+4090,variable,1 n [数]变量2 a 易变的，可变的
+4091,kettle,n&v 跳跃；飞跃，跃进；跳跃（的高度[距离]）
+4092,maize,n 玉蜀黍，玉米（美国、加拿大叫corn）
+4093,starve,v 使饿死；使饥饿
+4094,can,n 盖，罩子
+4095,transfer,1 n&v 转移；传递；转送2 n&v 交付，转让，（股票等的）过户划拨，汇划，汇兑
+4096,superficial,a 表面的；肤浅的，浅薄的，一知半解的（[opp]profound）
+4097,preponderance,n （数量、重量、力量、影响、重要性上的）优势；优越
+4098,prodigious,a 巨大的，庞大的，奇妙的
+4099,dam,n 水闸，坝，堰
+4100,penetrate,v 进入，渗入，穿透
+4101,decay,n&v 腐朽，腐烂；衰减，衰退
+4102,improvise,v 即席创作，即席演奏
+4103,artisan,n 工匠，手工业工人
+4104,in spite of,不管，不顾
+4105,theme,n （文章，讨论的）主题；论题；话题
+4106,perceive,v 觉察，发觉；看见，听见；领会，领悟
+4107,kinetic,n 动力（学）的，运动的
+4108,maternal,a 母系的；母亲的；像母亲的（[opp]paternal）
+4109,mutual,a 相互的，共有的，共同的
+4110,medium,n 媒介；（常作[pl]）宣传工具；传播媒介；手段，方法
+4111,disturb,v 扰乱；打扰
+4112,tow,v 拖着走，拉着走
+4113,altitude,n 高，高度；海拔（高度）
+4114,loom,1 n 织布机2 v 朦胧出现，（危险、忧虑等）阴森森地逼近
+4115,float,n&v 漂浮，浮起
+4116,pebble,n 砾，卵石，石子
+4117,insulate,v 使绝缘；隔离，使孤立
+4118,thereby,ad 因此，所以
+4119,perspective,n 观点；看法
+4120,romance,n 浪漫，浪漫史
+4121,witness,v 目击，目睹  n 证人，证据
+4122,imitate,v 仿效，模仿
+4123,rely,v 倚赖，依靠，信任，信赖
+4124,handcrafted,a 手工的，手工艺的
+4125,sensational,a 耸人听闻的；令人激动的
+4126,principal,a 主要的，首要的，最重要的；第一的
+4127,stature,1 n （特指人的）身长，身材2 n 发展、成长的状况或高度；才干
+4128,confine,v 限制（to；within）
+4129,divergent,a 叉开的，分歧的；背道而驰的
+4130,furniture,n 家具，器具
+4131,productive,a 生产的，生产性的；有生产力的；多产的
+4132,preach,v 讲道，布道，宣扬，鼓吹
+4133,kitchen,n 厨房
+4134,relieve,v 减轻，缓和，解除，救济
+4135,primary,1 a 第一的，最初的2 a 主要的，第一位的
+4136,thunder,n 雷，雷声
+4137,burial,n 埋葬，葬礼，墓地
+4138,wear,v 损耗，磨破（away/out/off）
+4139,crouch,n&v 蹲下；蜷着
+4140,suburb,n 郊区，城郊，市郊，近郊
+4141,trial,1 n 考验，磨难2 n 试验；（人或物的）试用；试车3 n 审问；审判
+4142,topic,n 论题，题目；话题；标题，细目
+4143,stomach,n 胃；[口]肚子
+4144,succinct,a 简洁的，简明的（[opp]lengthy）
+4145,whereas,conj 而，却，倒
+4146,hence,ad 从此，因此，所以，本来
+4147,pollutant,n 污染物（尤指放入水中和空气中的有害的化学物质）
+4148,implement,1 n 工具；器具2 v 执行，履行
+4149,deprive,v 剥夺，使不能享受
+4150,explicit,a 明白的，明确的（[opp]implicit）；直爽的，不隐讳的
+4151,background,n 后景，背景；基本情况；衬托音乐，伴音
+4152,exocrine,a&n 外分泌（的）
+4153,dense,a 密集的，（物质等）密度大的，（人口等）稠密的
+4154,prospect,n 眼界，风景，景色；展望
+4155,negate,v 否定，否认；取消，使无效
+4156,burrow,v 打（地洞），掘（穴）；掘成
+4157,tailor,n 裁缝  v 缝制（衣服）；供应服装
+4158,cellular,a 细胞的，细胞质（状）的
+4159,surge,n&v 汹涌；（感情等）起伏，高涨
+4160,backward,a&ad 向后的（地），相反的（地）
+4161,belief,n 信，信任；相信（in）；信仰，信心
+4162,varnish,n 清漆  v 给……上清漆
+4163,clerk,n 办事员，职员；（商店的）店员
+4164,parrot,n 鹦鹉；学舌者
+4165,coarse,a 粗糙的（[opp]fine）；粗鲁的，粗俗的
+4166,offshore,a&ad 向海面吹的（地）；离岸的（地）；海面上的（地）
+4167,neutral,1 a [化][电]中性的；中和的；不带电的2 a 不鲜艳的，暗淡的；非彩色的（指灰、黑或白色的）
+4168,exaggerate,v 夸张，夸大
+4169,haul,v （用力）拽，牵，拖，拖运
+4170,foster,v 助长，鼓励，促进
+4171,besiege,v 围，保卫，围困，围攻
+4172,blend,v 混合，搀合，混杂，掺杂
+4173,belong,v 属，属（某人）所有，应归入（某）部类（to，among，in，under，with）
+4174,lengthen,v 延长，伸长，拉长
+4175,jelly,n （透明）冻（胶），胶状物，果冻，肉冻
+4176,satisfy,v 使满足，使满意，符合（标准），达到（要求）
+4177,massive,a 大规模的；大量的；大的，重的；大块的
+4178,credit,1 v 归（功于某人）2 n 名誉，名望，声望
+4179,naked,a 裸体的；露出的
+4180,physician,n 医生，内科医生
+4181,brilliance,n 光彩，光辉，光泽，[光]亮度
+4182,congestion,n 拥挤；充斥；充血
+4183,gap,n 裂缝；豁口，缺口
+4184,axis,n 轴，轴线
+4185,disseminate,v 传播，散布，普及
+4186,brief,a （时间）短暂的，（文体的）简洁的，（答复等）简短的
+4187,rumor,n&v 谣言，传闻，流言；[常用被动语态]谣传
+4188,claw,n （动物的）爪；（蟹等的）钳
+4189,shrub,n 灌木，灌木丛
+4190,magnify,v 扩大，放大；夸张，夸大
+4191,domestic,a 家里的；国内的，本国的
+4192,tan,v 鞣（革），硝（皮）；使晒成棕褐色
+4193,battery,n [电]电池（组）
+4194,widespread,a 广泛的，普遍的
+4195,cosmic,a 宇宙的
+4196,pivot,v 把……放在枢轴上，旋
+4197,breach,v （对法律、义务等的）破坏；违背，不履行
+4198,reinforce,v 增强，加固；补充，增加
+4199,lithosphere,n 岩石圈，陆界
+4200,outward,ad 向外，在外，表面上（[opp]inward）
+4201,score,1 n 刻痕；裂缝；记号2 n 总谱，乐谱；（电影歌舞等的）配乐
+4202,generate,v 生殖，生育，产生，发生
+4203,accommodate,1 v 适应，调节2 v 留宿，招待
+4204,glare,n 闪耀，闪光；炫目的光，强烈的光
+4205,academy,n 学会，研究院
+4206,fairly,ad 适当地，相当地
+4207,rhythm,n 节奏；韵律
+4208,utilize,v 利用
+4209,breed,v 繁殖；育种
+4210,lumber,n 木材，木料，方料；（英国）原木
+4211,tame,v 驯服，制服  a 驯服的，温顺的
+4212,submerge,v 使浸在水中，潜水；沉没，淹没；消失
+4213,radiate,v 辐射；向周围扩展
+4214,interior,a&n 内（的）；内部（的）（[opp]exterior）
+4215,hesitate,v 犹豫，踌躇；不愿，含糊，支吾
+4216,stress,1 n 压力，压迫，紧迫，紧张2 v 着重，强调，加重语气说
+4217,edge,n 边缘，边界
+4218,radical,1 a 激烈的；彻底的2 a 激进的
+4219,vital,a 重大的，紧要的
+4220,petroleum,n 石油
+4221,restrict,v 限制，限定
+4222,administrate,v 管理；支配
+4223,juice,n （菜蔬、果实、植物等的）汁，液，浆
+4224,herb,n 草，草本植物
+4225,frost,n 霜；霜柱；结霜；冰冻
+4226,render,1 v 致使……；使变成……2 v 表现，描写
+4227,fragile,a 脆的，易碎的
+4228,unravel,v 解开，拆散，拆
+4229,polished,a 擦亮的，光亮的，磨光的
+4230,practical,1 a 有实效的；可行的2 a [贬]只讲实用的
+4231,exhibit,n&v 陈列（品），展览（品）
+4232,mock,v 嘲弄，愚弄；嘲笑，挖苦
+4233,distinguish,v 区别；辨别，识别，判别
+4234,glaze,v 镶玻璃于，装玻璃于，打光，擦亮；给……上釉
+4235,access,1 n 进路，入口2 v 接近
+4236,tension,1 n 张力，拉力，牵力2 n （精神、局势等）紧张（[opp]relief）
+4237,praise,n&v 称赞；赞扬，表扬
+4238,conservation,n 保存，维持（健康），保护（森林、河道、动物等）
+4239,temple,n 庙，寺，圣堂，神殿
+4240,inner,a （最高级为：innermost；inmost）内部的（[opp]outer）
+4241,terminal,1 n 终点（站）2 a 终端的，终点的，结尾的
+4242,nourishing,a 有营养的
+4243,breakdown,n 崩溃，倒塌；故障
+4244,strip,1 n 条带，长条；条板；带状地带2 v 剥光；除去，剥夺
+4245,sandy,a 沙的，沙质的，多沙的
+4246,aggressive,a 好斗的，敢做敢为的，有进取心的，行动积极的
+4247,sprawl,n 蔓延  v （难看地）爬行
+4248,invariable,a 不变的；守恒的  n [数]不变量，常数
+4249,symphony,n 交响乐，交响曲
+4250,merchant,n 商人  a 商人的；商业的
+4251,articulate,n 节体动物  a 有关节的；有节的；接合起来的  v 用关节连接
+4252,confront,v （困难等）横阻在……的面前
+4253,genetic,a 遗传（学）上的，发生的，发展的；创始的
+4254,peninsula,n 半岛
+4255,regular,1 a 有规律的；有秩序的；正规的，正式的2 a 定期的，定时的，常例的，习惯的
+4256,vaccinate,v （给……）接种（疫苗）
+4257,smell,n 气味；嗅觉
+4258,vanish,v 消失不见
+4259,smooth,1 v 把……弄平滑（光滑）；使流利，使流畅  a 平滑的，流畅的2 v 使容易；消除（障碍等）
+4260,delicate,a 精巧的，精致的；（仪器）灵敏的
+4261,maneuver,v 调动，部署；用策略使……，用计使……  n 调动，部署；策动，谋略
+4262,practitioner,n 从业者（尤指医生、律师等），老手
+4263,intricate,a 精致的；复杂的
+4264,inanimate,a 无生气的，没精打采的
+4265,opinion,n 意见；看法；见解；[常pl]主张
+4266,prior,a 在前的；优先的（to）（[opp]posterior）
+4267,studio,n 工作室
+4268,virtually,ad 实际上，实质上，事实上
+4269,abnormal,a 反常的，变态的，不规则的
+4270,collective,a 集合的；共同的
+4271,Mesozoic,a&n 中生代（的），中生代岩石（的）
+4272,layout,n 规划设计，布局图，版面设计
+4273,prose,n 散文（[opp]verse），平凡，单调，普通
+4274,disperse,v 使疏散，使散开；驱散（云、雾等）
+4275,midair,n 半空中
+4276,counterpart,n 相对物，对应物
+4277,vent,n 裂口；通风孔
+4278,lawn,n 草地，草坪，草场
+4279,reptile,n 爬行动物
+4280,flock,n （禽、畜等的）群，羊群
+4281,defeat,1 v 打败（敌人）；使受挫折2 n 战败，失败；挫折
+4282,impervious,a 不可渗透的，穿不过的，透不过的
+4283,toothed,a （装）有牙齿的；锯齿状的（[opp]smoothed）
+4284,reel,n （棉纱、电线等的）卷轴
+4285,react,v 反应；发生反作用；反抗
+4286,broadcast,a 播散的；广泛散布的，播音的，广播的
+4287,rocky,a 岩石的；岩石重叠的，岩石多的
+4288,belt,n 带，皮带；线条
+4289,publicize,v 发表，公布；宣传，为……做广告
+4290,optimal,a 最适宜的；最理想的；最好的（[opp]pessimal）
+4291,patriot,n 爱国者；爱国主义者
+4292,regime,n 制度，社会组织；政权，政体
+4293,recreation,n 休养；娱乐，消遣
+4294,shower,n 阵雨；（风雪等的）一阵；淋浴
+4295,dioxide,n 二氧化物
+4296,ration,v （按额定分量）配给
+4297,cease,n&v 停，终止
+4298,orderly,a 有秩序的，有规则的
+4299,coordinate,a 同等的，同位的
+4300,private,a 私的，私人的，秘密的；保密的
+4301,season,v 风干；晒干（木材）；晾干
+4302,flexible,a 灵活的
+4303,stove,n 火炉，电炉，加热器
+4304,therapy,n 疗法；疗效
+4305,dazzling,a 晃眼睛的，灿烂的
+4306,demolish,v 拆毁（建筑物等），毁坏，破坏（组织等）
+4307,wool,n 羊毛；绒线
+4308,prairie,n 大草原，牧场，草原地带
+4309,blazing,a 炽烈燃烧的，灿烂的；明显的，显著的
+4310,irrigate,v 灌溉
+4311,adjacent,a 毗邻的，邻近的
+4312,convey,v 表达（意义）；输送；搬运
+4313,merciless,a 冷酷无情的，狠心的，残忍的
+4314,tributary,a&n 纳贡（的）；从属（的），附庸的（国等）；支流（的）
+4315,amateur,n 业余者，爱好者
+4316,potent,a 强有力的；有势力的，有效力的；烈性的
+4317,tongue,n 舌；舌状物
+4318,ballet,n 芭蕾舞，舞剧
+4319,fracture,n&v （使）破裂；（使）折断；（使）断裂
+4320,clip,n 剪去，剪短，修剪
+4321,notice,n&v 注意；认识
+4322,mode,n 方式；模式；样式，习惯
+4323,moment,n 片刻，瞬息
+4324,reject,v 拒绝，抵制，驳回，否决（[opp]accept）
+4325,snowflake,n 雪花
+4326,droplet,n 小滴
+4327,interact,v 相互作用，相互影响
+4328,impart,v 告诉，通知（to）；给予，把……分给，传授（to）
+4329,sodium,n 钠
+4330,realm,n 领域，区域，范围
+4331,scent,n 气味  v 发出气味，闻出气味
+4332,runoff,n （被雨水）冲走的东西，流走之物
+4333,autobiography,n 自传；自传文学
+4334,slice,v 把……切成薄片  n 薄片，一片；一部分
+4335,quarry,n 采石场，石坑，石矿
+4336,verse,n 韵文（[opp]prose）；诗
+4337,formulate,v 把……做成公式，用公式表示
+4338,ragged,a 粗糙的
+4339,magma,n （矿物、有机物等的）稀糊状混合物；岩浆；稠液
+4340,wispy,a 细微的
+4341,embellish,v 装饰，修饰，美化
+4342,estimate,v 估计，估算
+4343,portray,v 画（人物、风景），画（肖像），描绘；描写；描述
+4344,undertake,v 承担；承办；着手，从事
+4345,border,n 边缘，边沿，框，边界，国界，国境
+4346,lava,n 熔岩；火山岩
+4347,extol,v （-ll-）赞美，称赞，颂扬；吹捧
+4348,bulk,n 体积，容积，大小
+4349,handful,n 少数，少量，一小撮
+4350,review,n&v 回顾，评论；再验查；检查
+4351,supreme,a 最高的，无上的，最优秀的，最重要的
+4352,neck,n 颈，脖子；（器物的）颈状部
+4353,quilt,n 被子，棉被，鸭绒被
+4354,excavate,v 掘出，发掘
+4355,sewerage,n 下水道（系统），排水（系统）
+4356,scramble,1 n&v 爬上去，攀登；攀缘2 v 拼凑
+4357,vivid,a （光、色）鲜明的；生动的
+4358,medicine,n 医药；内服药；医学，医术；内科（治疗）（[opp]surgery）
+4359,way,ad ……得多，远
+4360,eloquent,a 雄辩的，善辩的，有口才的，有说服力的
+4361,hurl,n&v 猛投，猛掷
+4362,barren,a&n （土地）荒芜（的）（[opp]fertile）
+4363,incessant,a 不停的，不断的
+4364,supplant,v 排挤掉，代替
+4365,underlie,v （-lay；-lain；-lying）位于……下面；成为……的基础
+4366,manual,n 手册；说明书；指南
+4367,sunlit,a 太阳照着的，太阳晒着的
+4368,herald,v 预示，预报
+4369,thorny,a 多刺的，有针的；像刺的；刺丛繁茂的
+4370,bumblebee,n 大黄蜂，土蜂，野峰
+4371,wary,a 小心的，留神的；谨慎的
+4372,glow,v 灼热；发白热光；燃烧，放光，发热
+4373,mystery,n 神秘，秘密；神秘的事物
+4374,refine,1 v 精炼，精制；纯化，提纯2 v 使优美，使精致；琢磨（文章等），推敲
+4375,prototype,n 原型；典型；样板；模范，标准
+4376,consistent,a 一致的，不矛盾的
+4377,fog,n 雾
+4378,exhilarating,a 使人高兴的，令人兴奋的
+4379,irreversible,a 不可逆的
+4380,receiver,n 接收器，接受者
+4381,scar,v 使留伤痕，使留痕迹  n 伤痕；疤；痕迹
+4382,barge,n 大平底船，驳船
+4383,interpret,v 理解，解释；翻译
+4384,humorous,a 有幽默感的，诙谐的，可笑的
+4385,protest,n 声明，断言，抗议
+4386,intestine,n （常[pl]）肠
+4387,rote,n 机械方法；刻板办法；死记，死背
+4388,protagonist,n （戏剧的）主角；（小说的）主人翁，领导者
+4389,launch,1 v 发射；投出；提出，发出2 v 开办，创办；发动，发起；开展
+4390,pianist,n 钢琴家；钢琴师
+4391,plantation,n 农场，种植园
+4392,myth,n 神话；神怪故事
+4393,earnest,a&n 热心（的）；诚挚（的），真挚（的），认真（的）
+4394,fundamental,a 基础的，基本的；根本的
+4395,asphalt,n 沥青，柏油
+4396,shine,v 明显流露
+4397,intent,n 意图；目的
+4398,complement,n&v 补足（物）；补全
+4399,synchronous,a 同时的，同期的；同步的
+4400,colony,1 n 殖民地2 n [动]（鸟、蚁、蜜蜂等的）集团，群
+4401,wane,v （月）缺损，亏；（[opp]wax）；（光、势力等）衰落，衰微；减少
+4402,nickel,n 镍
+4403,embrace,v 拥抱，抱；参加
+4404,crab,n 蟹
+4405,lubrication,n 润滑，油润，上油；润滑作用
+4406,refurbish,v 再刷新；整修；翻新
+4407,segment,n 部分，节，段  v 分割，分裂
+4408,adapt,v 使适应，使适合
+4409,penalty,n 刑罚，惩罚，罚款，报应
+4410,tendency,1 n 倾向，趋势2 n 性情，偏好
+4411,remark,v 评论，谈论，议论
+4412,tactics,n 战术；策略
+4413,stationary,a 静止的，不变的；固定的
+4414,lone,a 孤独的；无人烟的，人迹稀少的
+4415,logical,a 逻辑的，逻辑上的；合乎逻辑的
+4416,photograph,v 为……照相，为……摄影
+4417,suspend,1 v 悬挂；悬空；悬浮2 v 中止，暂时停止，暂时作废
+4418,regulate,v 调节（温度、速度等）；管制，控制
+4419,episode,n （一系列事件中的）一个事件
+4420,disaster,n 天灾，灾害；不幸，事故
+4421,entrance,n 入口，大门
+4422,architecture,n 建筑学；建筑（样式、风格）；建筑物
+4423,ultraviolet,a&n 紫外线（的）
+4424,balance,n&v 平衡，均衡，对称
+4425,advent,n （季节、事件等的）到来，出现
+4426,fist,n 拳头
+4427,undermine,v 掘……的下面，削弱……的基础
+4428,staircase,n 楼梯；楼梯间（室）
+4429,wreck,n 失事船；残骸  v 使（船只）遇险（失事）
+4430,trouble,n 麻烦；困难，艰难
+4431,proponent,n 支持者；主张者，辩护者（[opp]opponent）
+4432,rifle,n 步枪；来福枪
+4433,deposit,1 v 放置，安置；储蓄2 n&v 淤积，沉淀；附着
+4434,breathe,v 呼吸，活着，生存
+4435,can,n 罐头  v 制罐头
+4436,nonsense,n 无意义的话，荒谬（荒唐）话，胡说；废话
+4437,snap,1 v 猛扑2 v 突然折断
+4438,secret,a&n 秘密（的）；机密（的）；秘诀（的）
+4439,forge,v 打（铁），锻制
+4440,desirable,a 理想的，希望到手的；称心的，令人满意的
+4441,meager,a 瘦的；（土地）不毛的；思想贫乏的
+4442,hardship,n 艰难，困苦
+4443,relevant,a 有关的；适当的，贴切的，中肯的
+4444,terrible,a 非常的，厉害的，极度的
+4445,steady,a 稳固的，稳定的，不变的
+4446,distribute,v 分配，分给；分布，散布（over）
+4447,postage,n 邮费
+4448,modest,a 有节制的，适度的，适中的；谨慎的，谦虚的
+4449,cast,1 v 浇铸，铸造2 v 丢弃，抛弃；脱掉（衣服）；（蛇）脱（皮），（鸟）换（毛），（鹿）换（角）；（树）落（叶）；（马）脱落（铁掌）
+4450,sugar,n 糖；[化]糖（即碳水化合物）
+4451,storage,n 贮藏（量），存储（量）；（仓库）保管
+4452,mosaic,a&n 马赛克（的），镶嵌细工（的），拼花艺术（的），拼花图样（的），拼制物（的）
+4453,setting,1 n 安装；装配；装置；安放2 n 背景；（花园的）布置；环境
+4454,handle,v 处理；讨论（问题）
+4455,traffic,n 交通，运输；交往；交流
+4456,bust,n 半身像，胸像
+4457,eligible,a 胜任的，合格的，适当的
+4458,reproduce,1 v 生殖，繁殖2 v 再演；再版；转载；翻印3 v 复制；再生产；再现
+4459,legend,n 传说；神话
+4460,tectonics,n 筑造学，构造学
+4461,spontaneous,a 自发的，自动的；非勉强的
+4462,jolt,n&v 颠簸，摇晃
+4463,iceberg,n 冰山
+4464,tenant,n 租屋人，房客
+4465,televise,v 电视播送，实况播送
+4466,precursor,n 前辈，前驱；预兆，先兆
+4467,skull,n 颅骨，头骨，脑壳，头盖骨
+4468,erect,v 使直立，树立
+4469,genuine,a 真正的，坦率的，真诚的，真心诚意的
+4470,proclaim,v 宣布，公布，宣告，声明；表示
+4471,transplant,n&v 移植（皮肤等）
+4472,substantial,a 实质的，真正的
+4473,raft,n 筏
+4474,anticipate,v 预期，预料，预测；指望，期待
+4475,extinct,a （生物）已绝种的，已灭绝的
+4476,offensive,n 进攻，攻势
+4477,blade,n （壳、草等的）叶片，叶身；刀片；刀口，刃
+4478,mandate,1 n&v 命令，指令2 n [法]财产委托；（国际上）委托管理
+4479,tire,v 疲倦，使疲倦；使厌倦
+4480,devour,v 狼吞虎咽地吃；挥霍
+4481,monotonous,a 单调的，无变化的
+4482,presence,n 存在，实在；出席，列席，到场
+4483,façade,n [建]正面；外表，外观；（掩饰真相的）门面
+4484,tough,1 a 强韧的，弯折不断的（[opp]weak）2 a 不屈不挠的，坚强的；顽固的，固执的
+4485,alkali,n （[pl]alkali（e）s）碱；强碱
+4486,psychologist,n 心理学者；心理学家
+4487,circular,a 园的，圆（环）形的
+4488,gifted,a 有天才的，天赋的
+4489,silence,n 沉默，无言；无表示；无声，沉静，肃静，寂静
+4490,fluctuate,v 波动，起伏
+4491,acre,1 n 英亩2 n 地产，土地，耕地
+4492,gradient,n 倾斜度，坡度，梯度，陡度
+4493,bacteria,n [pl]（[sing]bacterium）细菌
+4494,overwhelm,v 压倒；压服；推翻
+4495,dot,v （-tt-）点缀
+4496,retail,a&n&v 零售（的）（[opp]wholesale）
+4497,submit,v 提交；委托，提出，提供；请求判断
+4498,tenement,n （几户合住的低级）公共住宅
+4499,thrive,v 兴旺，繁荣；茁壮成长，繁茂，蔓延
+4500,steep,1 a 陡急的，峻峭的，险峻的2 a 急剧升降的，急转直下的
+4501,evoke,v 唤起；引起，招致
+4502,version,n 版本；形式
+4503,trap,v 设陷阱捕捉，诱捕，使受限制  n 陷阱
+4504,race,1 n&v 竞赛2 n 种族
+4505,cater,v 迎合，投合（to）
+4506,accident,n 故障，事故，偶发事件；偶然
+4507,separately,ad 分别地，个别地，分离地
+4508,trait,n 特色，特点，特征；性格；脾气；容貌
+4509,inviting,a 引人注目的，吸引人的
+4510,blossom,n 花（特指果树花）；群花，开花时期；（发育的）初期
+4511,dwarf,n 矮小的（动）植物  v 使矮小，使相形见绌
+4512,heal,v 医治，治愈（病伤等），使恢复；使和解
+4513,sterile,a 贫瘠的，无生殖力的，毫无结果的
+4514,nail,n 钉子
+4515,expressive,a 富于表情的；意味深长的
+4516,traditional,ad 传统上，照惯例
+4517,tune,1 n 曲调，调子2 n 和谐，调谐，调和3 v 校准（乐器的）音调，调整，使调和
+4518,integrate,v 使成整体，使并入，使一体化，使结合起来
+4519,ore,n 矿石，含有金属的矿石
+4520,sketch,v 草拟，勾画，描画，描述  n 草图，素描，概略，大意
+4521,barter,n 物物交换，换货，实物交易
+4522,tropic,n 热带（地区）
+4523,identify,v 辨认，识别
+4524,genus,n 种类，类，属
+4525,biography,n 传，传记
+4526,kingdom,n 王国
+4527,lung,n 肺脏，肺；（无脊椎动物的）呼吸器官；辅助呼吸的装置
+4528,deteriorate,v 弄坏，使恶化；堕落
+4529,allude,v 暗指，暗示
+4530,troupe,1 n 剧团，戏班子；马戏团2 n 一团，一班，一伙
+4531,endure,v 忍耐，忍受；容忍
+4532,ring,1 n 环，环形物2 v 围住，包围
+4533,decompose,v （使）分解，分析；（使）腐烂；衰变
+4534,balcony,n 露台，阳台，（剧场二楼）楼座
+4535,oral,a 口头的；口的；口腔发声的
+4536,mood,n （一时的）心情，情绪
+4537,frame,n 机构；组织  v 构造；给……装框子
+4538,lease,n 租契，租约；租借权；租借物；租借期限
+4539,reflection,n 反映；反影，（映在水等中的）影像
+4540,portable,a 可搬运的；便于携带的；手提式的，轻便的
+4541,reduction,1 n 简化，约简2 n 缩小，减少；降级，降位
+4542,acquaint,v 使熟悉，了解[多用被动语态]
+4543,silica,n 硅石，硅土
+4544,derive,v 得到，导出（from）
+4545,widow,n 寡妇
+4546,household,a&n 家庭（的），一家（的）
+4547,protein,n 朊， 蛋白（质）
+4548,eager,a 渴望的，极想的，热衷的（after；about；for）
+4549,portrait,n 肖像，肖像画；相片
+4550,transcend,v 超出，超过（经验、理性、信念、理解力等）
+4551,census,n 人口普查
+4552,ware,n 制品，成品，器皿，物件
+4553,habitat,n （动、植物生长的）自然环境（地区）；住所，居住地
+4554,context,n （事情等的）范围，场合，处境
+4555,solve,v 解释，解答，解决
+4556,hydrogen,n 氢
+4557,trivial,a 琐细的，轻微的；平常的，平凡的（[opp]crucial）
+4558,astronomy,n 天文学
+4559,electron,n 电子
+4560,apprentice,n 学徒
+4561,consequence,n 结果，重要（性）；重大意义
+4562,attain,v 达到，获得
+4563,poet,n 诗人
+4564,precise,a 准确的，精确的
+4565,nonetheless,ad&conj 仍然（还），不过；（尽管如此）还是
+4566,plaza,n 广场；集市场所；购物中心
+4567,candidate,n 候选人；候补人
+4568,sink,1 v 下沉，下陷2 v 衰颓，沦落，败落，堕落
+4569,turbulent,a 骚乱的；动荡的
+4570,admire,v 赞美，称赞；惊异（at）
+4571,nutrition,n 营养（作用），滋养；营养物，食物
+4572,stabilize,v （使）稳定；（使）固定
+4573,jurisdiction,n 裁判权，司法权，管辖权，管辖范围，权限
+4574,subsist,v 生存；活下去，维持生命，维持生活
+4575,modulate,v 调节，调整；缓和，减轻
+4576,transit,n 运输；通路；转变，变迁
+4577,warp,n&v （使）卷曲，翘曲，弯曲
+4578,diverse,a 不同的；形形色色的，多种多样的
+4579,discard,v 放弃，抛弃
+4580,emerge,v 出现；发生
+4581,raw,a 未加工的，粗的
+4582,frigid,a 寒冷的
+4583,nickname,n 诨名，绰号；略称，爱称
+4584,species,n （[sing]，[pl]）种类；[生]（物）种
+4585,chamber,n 穴，腔；室；箱
+4586,snake,v 扭弯；扭转；迂回前进
+4587,narration,n 叙述；故事
+4588,retain,v 保留；保持
+4589,temporarily,ad 一时地，暂时地，临时地
+4590,spur,1 n 踢马刺，靴刺2 v 刺激，推动，鞭策，鼓舞
+4591,vigorous,a 精力旺盛的，强健的
+4592,designate,v 指出，指明
+4593,frequent,a 屡次的，常见的；频繁的
+4594,surgeon,n 外科医生；[军]军医；船医
+4595,plank,n 板，厚板
+4596,chord,1 n 腱，带2 n （琴）弦；（心）弦
+4597,peculiar,a 独特的，特有的（to）；特别的，特异的，罕见的，奇怪的
+4598,orbit,1 n 轨道  v 沿轨道运行2 n 势力范围；（人生的）旅程，生活过程
+4599,obvious,a 明显的，明白的；显而易见的
+4600,induce,v 引导，导致
+4601,fiber,n 纤维，纤维质
+4602,organic,a 器官的；有机体的；有机的（[opp]inorganic）
+4603,permanent,a 永久的，不变的
+4604,instruct,v 教，指示
+4605,volt,n [电]伏（特）
+4606,solidify,v 使凝固，固化；使结晶（[opp]dissolve）
+4607,limb,1 n 肢，手足；翼，翅膀2 n 大树枝
+4608,thresh,n&v 脱粒；打谷
+4609,sponsor,v 资助
+4610,noxious,a 有害的，有毒的
+4611,numerical,a 数字的；数值的；用数字表示的
+4612,spoil,v 损坏，弄坏，糟蹋；变坏，腐败
+4613,obstacle,n 障碍（物），妨害，阻碍，干扰
+4614,personality,n 个性，[心理学]性格；人格，品格，做人，为人；容貌
+4615,imagine,v 想象，猜想，推测
+4616,ditch,n 水沟，渠
+4617,encounter,n 遇见，碰见  v 邂逅（友人等）
+4618,veteran,n 复员军人，退役军人
+4619,analyze,v 分析
+4620,determine,v 决心，决意；测定
+4621,eclipse,n （日、月）食  v 使失色；超越，盖过
+4622,status,n 情形，状况，状态；地位；资格
+4623,fiction,n 小说；编造，想象，虚构
+4624,stamp,1 n 邮票，印花（税）2 v 印刷，压印
+4625,hazard,n 碰巧，机会；偶然的事，孤注一掷，冒险
+4626,canopy,n （树）冠；冠层
+4627,accomplish,v 成就，完成；贯彻（计划等）；达到（目的）；实行
+4628,distinct,a 独特的；清楚的，明显的；明确的；显著的
+4629,avant-garde,a&n 先锋（的），先驱（的）
+4630,proper,a 适当的，相当的；正当的
+4631,chorus,n 合唱；合唱队；合唱歌（曲）
+4632,lavish,a 过分大方的；过于丰富的，过度的，浪费的
+4633,unique,a 独特的；惟一的
+4634,sediment,n 沉淀物
+4635,sponge,n 海绵；海绵动物；海绵状的东西
+4636,bison,n （[pl]bison）[动]（欧洲种和美洲种）野牛
+4637,gallon,n 加仑
+4638,elusive,a 无从捉摸的，难懂的；容易忘记的
+4639,condor,n 秃鹰
+4640,elaborate,1 v 精心制作；详尽阐述2 a 精巧的，精细的，精益求精的；详尽的
+4641,payment,n 支付；缴纳，报偿；补偿
+4642,thoroughly,ad 彻底地，全面地
+4643,evenly,a 一致的；均匀的
+4644,flap,1 n （鸟、昆虫）翼；（鱼）鳃盖；（狗等）下垂的长耳；（菌类）张开的伞2 v 拍动
+4645,mammalian,a&n 哺乳动物（的）
+4646,curtain,n 帘幕；窗帘，帘子
+4647,lean,v （使）倾斜
+4648,bulb,1 n 球根；鳞茎，球状物2 n 灯泡
+4649,blow,1 v （blew，blown）（风）吹；（汽笛等）叫，鸣2 v （blew，blown）（轮胎等）爆炸；[电]（熔丝等）熔断，熔化
+4650,rotate,1 v 旋转；轮转；循环；自转；使旋转（轮转）；使循环2 v 轮流，交替，轮换
+4651,quartz,n 石英，水晶
+4652,anonymous,a 匿名的；无名的
+4653,pearl,n 珍珠；珍品，[pl]珍珠项链
+4654,acronym,n 首字母缩略词
+4655,maximum,a&n 极点（的），最高额（的），最大值（的）；最高点（的）
+4656,steam,n 蒸汽，水蒸气，水气，雾，蒸汽压力
+4657,inject,v 注入，注射
+4658,bite,v 咬，叮，蛰；紧咬  n 一小口（食物），少量（食物）
+4659,ignore,v 忽视，不理，不顾；抹煞（建议）
+4660,constitution,n 宪法；政体
+4661,representation,1 n 表示，表现，描画，描述2 n 代理，代表3 n 上演，演出；扮演
+4662,squeak,v 叽叽地叫  n 叽叽声
+4663,quantity,n 量；分量，数量；额；值，参量
+4664,renaissance,n 复兴；新生；文艺复兴（期）
+4665,jewel,n 宝石，宝玉，宝石饰物
+4666,reverse,n&v 颠倒，倒转，倒退；逆转
+4667,slide,v 滑；滑动
+4668,meticulously,ad 小心翼翼地，细致地
+4669,spawn,1 v （使）产卵，大量生育  n （鱼等的）卵，子2 v 引起，酿成
+4670,tomato,n 番茄，西红柿
+4671,metabolism,n 新陈代谢，代谢作用
+4672,suit,1 v 适合；相配2 n 申诉，起诉，诉讼；控告；讼案
+4673,presumably,ad 推测起来；假定；大概，大抵，可能
+4674,nationwide,a 全国性的  ad 全国性地（[opp]local）
+4675,maritime,a 海的，海上的
+4676,spin,n&v （使）旋转；自旋，自转
+4677,decorate,v 修饰，装饰，布置
+4678,official,1 a 官方的，正式的2 n 官员，高级职员
+4679,rhetoric,n 修辞学；辩论法
+4680,crater,n 火山口；（月球上的）环形山；（炸成的）弹坑；陨石坑
+4681,drift,v 使漂流；漂移
+4682,sloth,n [动]树懒
+4683,comedy,n 喜剧
+4684,locality,n 地点，位置，场所，方向；地区；（植物的）产地；环境
+4685,outermost,a 最外面的，最远的（普通级：outer）
+4686,plaster,n 灰泥，石膏
+4687,limestone,n 石灰石
+4688,thrust,n 推挤；推力，侧向压力
+4689,detect,v 发觉，发现；检定
+4690,revise,v 修订，校订；修正，改变（意见等）
+4691,equip,v 配备，装备
+4692,melancholy,n 忧郁；忧郁病  a 令人伤感的；意气消沉的
+4693,admit,1 v 承认，容许2 v 收容，容纳
+4694,terrain,n 地形，地势
+4695,term,n 词语；术语，专门名词
+4696,carpenter,n 木匠，木工（尤指粗木工）
+4697,impose,v 征收（税等），使……负担
+4698,hollow,a 空的，中空的，空虚的，不诚实的
+4699,stir,v 搅动，搅拌；使混淆
+4700,hexagon,n 六角形，六边形
+4701,fabric,1 n 结构2 n 编织品，织物；纤维品
+4702,delta,n （河流的）三角洲；三角形物
+4703,extraordinary,a 非凡的，卓绝的
+4704,sweep,n 扫除，打扫  v 扫过，擦过，掠过；吹去，刮去
+4705,latter,a 后面的，未了的（[opp]first）；（二者中）后者的（[opp]former）
+4706,resist,v 抵抗，反对，忍耐（艰苦等）；抵制（疾病等）
+4707,pursue,v 追，追赶，追踪；纠缠
+4708,harden,v 使坚固，使变硬
+4709,boundary,n 边界，疆界，限界
+4710,dim,a 微暗的，朦胧的  v （使）暗淡；（使）朦胧，（使）模糊
+4711,sanitation,n 公共卫生，卫生设备，下水道设备
+4712,tract,1 n 广阔的地面；（一大段）土地（森林），地带；广阔海面（天空）2 n （政治、宗教的）短论；小册子；传单
+4713,occurrence,n （事件的）发生，出现
+4714,contemporary,a&n 同时代的（人）；现代的（人）
+4715,seal,1 n 海豹2 n&v 关闭；密闭；密封；隔离
+4716,quarter,n 寓所，住处
+4717,photosynthesis,n 光合作用；光能合成
+4718,flood,n 洪水，水灾；大量，一大阵，滔滔不绝
+4719,entry,n 入口；门口；登录
+4720,squarely,ad 规规矩矩地；公证地；断然地（[opp]indirectly）
+4721,limner,n 画师，花匠，描述者
+4722,cellulose,n 细胞膜质，纤维质；纤维素
+4723,potash,n 碳酸钾
+4724,revolutionary,a 革命的，大变革的，革命性的
+4725,chapel,n （常附属于大教堂的）小教堂
+4726,team,n 队，团；工作队，工作组
+4727,opera,n 歌剧；[口]歌剧院
+4728,preservation,n 保存；储藏；防腐
+4729,boulder,n 圆石，卵石；冰砾
+4730,potter,n 陶工；[英方]陶器小贩
+4731,cluster,n （一大）丛，群，片  v （使）成群；（使）群集
+4732,yield,v 生出，产生（作物、报酬、利益等）
+4733,raven,n 大乌鸦
+4734,withdraw,1 v （withdrew；withdrawn）撤销；取消2 v 回收（通货等）；提取（存款）
+4735,manifestation,n 表现，表示；显现
+4736,extend,v 扩充，扩大，扩展；发挥（力量）；延续
+4737,barrel,n 桶，装满的桶，桶装
+4738,infant,a&n 婴儿（的），幼儿（的）
+4739,legal,a 法律（上）的；法定的，合法的，正当的
+4740,symptom,n 症状，征候；征兆
+4741,specify,v 指定；具体说明，详细说明
+4742,article,n 物品；制品
+4743,mammoth,1 n 猛犸（象）（古生代的巨象）2 a&n 巨物（的），庞然大物（的）；巨大（的）
+4744,toad,n 蟾蜍，癞蛤蟆
+4745,abroad,1 ad 到国外，在海外2 n 国外，海外
+4746,alligator,n 短吻鳄，鳄（鱼）
+4747,plateau,n 高原，台地，高地
+4748,repel,v 排斥，拒绝
+4749,seemingly,ad 表面上地
+4750,plummet,v 笔直掉下；骤然跌落
+4751,bipedal,a 两足动物的；两足的
+4752,margin,n 边缘；边缘部分；范围，限界
+4753,acclaim,n 喝彩，欢呼
+4754,hardware,n 五金器具；金属制品，零件，部件；硬件
+4755,proportion,n 比，比率；[数]比例
+4756,simultaneous,a 同时发生的，同时做的，同时的
+4757,shallow,a （水、器物等）浅的；薄的（[opp]deep）
+4758,novelty,n 新奇，奇异；新奇的东西（事情）
+4759,battle,n 战，战斗（行动），交战
+4760,abstract,a&n 抽象（的）
+4761,cohesive,a 凝聚性的；有结合力的
+4762,feasible,a 可实行的，行得通的
+4763,survey,n&v 检查，调查，测量（土地），勘查，俯视；概论
+4764,mature,a 成熟的；仔细考虑过的  v 成熟；使成熟
+4765,ideology,n 意识形态，思想方式
+4766,wonder,1 a 非凡的，奇妙的2 v （对……）觉得奇怪
+4767,recording,n 唱片；录了音的磁带
+4768,expertise,n 专门技能，专门知识
+4769,minuscule,a 极小的，微小的，细微的
+4770,warrant,1 v 证明……具有充分根据2 n 正常理由；根据
+4771,convert,v 转换，转化
+4772,regenerate,v 使再生，使复生，使新生
+4773,multiple,1 a 多重的；复合的，复式的，多数的，多样的2 n [数]倍数
+4774,transformation,n 转变，变形；（尤指昆虫的）转化、变态；改造，改革
+4775,dumb,a 哑的，不能说话的
+4776,backbone,n 脊骨，脊椎；骨干，主力
+4777,converse,1 v 谈话2 a 倒转的，逆（转）的  n 逆转
+4778,chill,a&n 寒冷（的）  v 使冷，变冷
+4779,fur,n 毛皮；[pl]兽皮，皮货
+4780,understand,v 听说，获悉
+4781,hammer,n 铁锤
+4782,harness,1 n 马具，挽具2 vt 利用自然力使产生动力
+4783,dinosaur,n 恐龙
+4784,tranquil,a 平静的；安静的，镇静的；稳定的
+4785,respond,v 回答；响应（to）；（对刺激等）感应，反应
+4786,swallow,1 v 吞，咽2 v 淹没（up）
+4787,Antarctica,n 南极洲
+4788,hallmark,n 标志，特点
+4789,protection,n 保护，保卫，防御，掩护，包庇
+4790,blast,v 使爆炸，爆破，炸掉；摧毁
+4791,output,n 产量；生产，出产，产品；输出量，输出
+4792,outweigh,v 比……重；比……重要；胜过，强过
+4793,avid,a 渴望的；贪婪的
+4794,nuclear,a 核的，核心的；原子能的；核动力的
+4795,inspect,v 询问，查问
+4796,dogged,a 顽固的，固执的
+4797,partially,ad 部分地
+4798,homogeneous,a 同种的，同质的，纯一的，均匀的
+4799,cathedral,n 大教堂
+4800,promise,n 允许，诺言；约束，（前途有）希望；（有）指望
+4801,vary,v 使变化，使多样化
+4802,scurry,v 快步急跑；疾走
+4803,peripheral,a 周围的，外围的；（神经）末梢区域的
+4804,curious,a 稀奇的，古怪的；好奇的
+4805,district,n 区；管区；行政区
+4806,hallway,n 门厅，过道
+4807,satire,n 讽刺诗（文）；讽刺作品；讽刺
+4808,energetic,a 精力旺盛的，强健的
+4809,storm,n 风暴，风潮，骚动，动乱
+4810,levy,v 征收；索取；征集，征用
+4811,career,n 职业；前途
+4812,twist,1 v 扭转；转身；扭伤2 v 缠上，卷住；盘绕
+4813,crow,n 鸦（包含raven，rook，jackdaw，chough）
+4814,yearn,v 想念，怀念，向往
+4815,trolley,n 手推车；（有轨）电车
+4816,pulse,n 脉搏；有节奏的跳动，拍子，节拍
+4817,classify,v 把……分类
+4818,compose,1 v 组成，构成（be composed of）2 v 创作（诗歌，乐曲等）
+4819,rainfall,n 下雨，降雨量
+4820,microbe,n 微生物；（尤指引起疾病的）细菌
+4821,accompany,v 陪伴；伴奏
+4822,motivation,n 动机；动机因素；动力
+4823,fountain,n 喷泉；人造喷泉
+4824,geologic,a 地质学的，地质的
+4825,ecology,n 生态学；任何均衡的系统（制度等）
+4826,vacant,n （房子等）空着的，没人住的；（位置等）空缺的
+4827,clay,n 黏土；泥土
+4828,formidable,a 可怕的，可畏的；庞大的
+4829,convict,v 证明……有罪，宣告……有罪，定……的罪
+4830,pronounced,a 决然的，断然的，强硬的
+4831,marble,n 大理石  a 大理石（似）的；有大理石纹彩的
+4832,grand,a 盛大的，宏大的；堂皇的，雄伟的
+4833,grasshopper,n 蚱蜢，蝗虫
+4834,trillion,a&n 万亿的，兆的；大量的
+4835,accelerate,v 加速；催促，促进
+4836,conceal,v 隐藏，隐蔽
+4837,shut,v 关闭；把……关在门外，封闭
+4838,stringent,a 严格的，严重的，严厉的；紧急的，迫切的
+4839,soul,n 灵魂，心灵；精神
+4840,utility,n 公用事业；公共设施
+4841,subterranean,a 地下的，地中的
+4842,arid,a 干旱的；贫瘠的，荒芜的
+4843,prestige,n 威信，威望，声望；声誉
+4844,populous,a 人口稠密的，人口多的；挤满的
+4845,capture,n&v 俘获，捕获
+4846,earthenware,n 土器，陶器
+4847,drama,n 戏剧
+4848,casual,a 随便的，非正式的
+4849,accuse,v 控告（告发）某人犯某罪（of）；把谋事归罪于某人（for）
+4850,mint,v 铸造（货币）  n 造币厂
+4851,patch,n 碎片；碎屑；斑点，斑纹；斑
+4852,participate,v 参与，参加，有关系；分担；共享
+4853,continual,a 不断的，连续的
+4854,fraction,n 小部分，碎片，片段
+4855,tear,1 v 撕，扯；裂开，拉破  n 裂缝，绽线的地方；撕裂2 n 泪滴
+4856,formation,n 组织，构造
+4857,wage,v 进行，发动（战争等）
+4858,parallel,a 平行的；并行的（to；with）；[电]并联的
+4859,reign,n&v 统治，支配
+4860,versatile,a 多面手的，多才多艺的
+4861,outbreak,n 突然发生；爆发；暴动，骚扰；反抗
+4862,eliminate,v 除去，消灭，逐出，淘汰，排出（from）
+4863,fatal,a 致命的；命中注定的
+4864,mere,a 单单的，只，不过；全然的；纯粹的
+4865,saturated,a 饱和的，浸透的，湿透的
+4866,gravity,n 重力，引力
+4867,ambition,n 抱负，志气，雄心
+4868,seasonal,a 季节（性）的；周期性的（[opp]irregular）
+4869,unless,conj 如果不，要是不，除非
+4870,session,n 一次，一段时间；会议；会议的一次（一届）
+4871,tundra,n 冻土带，寒漠
+4872,stereotype,n 旧框框；陈规老套，旧习，成规，定型
+4873,resume,v 重新开始（已停的事），继续（中段的谈话等）
+4874,whale,n 鲸；庞然大物
+4875,residue,n 残余，残渣
+4876,sufficient,a 充分的，足够的（[opp]inadequate）
+4877,breeze,n 微风；柔风，和风
+4878,surpass,v 超过；优于，胜过
+4879,teens,n 十多岁（13~19岁）
+4880,craft,1 n 技能，手艺；手工业2 v 熟练制作3 n 船舶；飞机，飞船
+4881,ingenious,a 别处心裁的，巧妙的
+4882,puzzle,n 难题，迷惑；（字谜、书谜等的）谜
+4883,attach,v 贴上，系上
+4884,chip,v 削，凿，刻
+4885,objective,1 n 目的，目标，任务2 a 客观的；真实的（[opp]subjective）
+4886,grasp,v 抓住，握紧，抱住，领会，理解
+4887,tin,n 锡器；罐头
+4888,flat,a 平的，平坦的，扁平的
+4889,remind,v 使想起，使记起，提醒
+4890,ion,n 离子
+4891,province,n 省，州；[pl]地区，地方
+4892,profound,a 深远的，意味深长的
+4893,laboratory,n 实验室，化验室，研究室
+4894,transparent,a 透明的，明了的，坦率的，显而易见的
+4895,cure,1 n 治愈，痊愈；疗法2 v （鱼等用腌、熏、晒、烤等的）加工保藏（法）
+4896,chance,n 偶然；运气，命运
+4897,undergo,v （-went；-gone）经受（考验等）；经验，经历（变迁等）
+4898,dismay,n&v （使）灰心；（使）沮丧
+4899,axe,n （=ax）（[pl]axes）斧
+4900,basement,n 建筑物的底部，[建筑]底层；地下室
+4901,down,n （装被、褥等用的）鸭绒，绒毛；（鸟的）绒羽；柔毛，汗毛，毳毛；（男孩脸上初生的）细软短须；（蒲公英等的）冠毛
+4902,solution,1 n 解决，解释，解法2 n 溶解；溶液，溶体，溶剂
+4903,valid,a （理由、证据等）有确实根据的，确凿的；正确的
+4904,configuration,n 结构；外形
+4905,odd,a 奇妙的，奇特的，古怪的
+4906,horizon,n 地平；地平线，眼界，视界；范围
+4907,retract,v 缩进，收回
+4908,reheating,n 重新加热
+4909,withstand,v （withstood）抵挡；挡住
+4910,predict,v 预言，预告，预报，预示
+4911,vessel,1 n 船，舰；飞船2 n 脉管，血管；导管
+4912,paradox,n 反论，悖论；自相矛盾的话
+4913,military,a 军人的，军队的；军事的，军方的  n 军方
+4914,slave,n 奴隶；苦工
+4915,commodity,n 日用品；商品
+4916,passion,n 激情，热情，感情
+4917,magnesium,n 镁
+4918,pigment,n 颜料，色料，色素
+4919,tail,n 尾巴，尾状物  v 装上尾巴
+4920,dye,n 染料，染液  v 染，染上，把……染色
+4921,constituent,n 成分；构成
+4922,mansion,n 宅第，公馆；大楼，公寓
+4923,etch,n&v 蚀刻，浸蚀
+4924,toe,n 脚趾，脚尖
+4925,ranch,n 大牧场，大农场  v 经营牧场
+4926,assert,v 主张，硬说；断言，声明
+4927,stylized,a 程式化的，按固定格式的
+4928,sweat,n 汗；出汗
+4929,unprecedented,a 空前的；无比的
+4930,uniform,1 a 一致的；相同的2 n 制服
+4931,flattering,a 谄媚的，讨好的，奉承的
+4932,bind,v 捆，扎，绑；束
+4933,locomotion,n 运动，移动，位移；运动力，移动力，运转力
+4934,discriminate,v 区别，识别；分别对待，歧视，排斥
+4935,lamp,n 灯
+4936,antagonize,v 反抗，对抗；引起……的对抗
+4937,miniature,a 小型的，缩小的；小规模的
+4938,rule,1 n 规则，定律，常例，惯例2 n&v 统治，支配
+4939,innocent,a 天真无邪的；单纯的
+4940,initial,1 a 最初的，开始的2 n 词首字母，词首大写字母
+4941,dive,v 潜水；[泳]跳水；俯冲
+4942,surplus,a&n 剩余（的）；过剩（的）
+4943,spiky,a 尖而长的；锐利的
+4944,sack,n 袋，包；麻袋；硬纸袋
+4945,variety,n 种类；项目
+4946,ingredient,n （混合物的）组成部分，成分，要素
+4947,assess,v 评定，估定
+4948,heritage,n 世袭财产，（长子）继承权
+4949,refuse,1 v 拒绝，推辞（[opp]accept）2 n 废料，糟粕，渣滓，垃圾；废物
+4950,larva,n 幼虫；幼体
+4951,necessity,n 需要，必要性；必需品；必然（性）
+4952,roam,n&v 漫游，游历，游荡，漫步
+4953,restore,v 恢复原状；恢复；修复
+4954,awkward,a 有毛病的，难使用的；笨拙的，粗劣的
+4955,negotiate,1 v 协议，谈判，交涉2 v 通过，跳过（障碍）；克服（困难等）；处理；处置3 v 使（证券、票据等）流通，转让，兑现；卖（让）与
+4956,nurse,n 护士，看护  v 护理，照料
+4957,agent,n 作用物；成分
+4958,brim,n （杯、碗等容器的）缘，边
+4959,descend,v 下降（[opp]ascend）；下斜；传下，遗传
+4960,odor,n 气味；香，香气；臭气
+4961,hostile,a 敌人的，敌方的，怀有敌意的，敌对的
+4962,acute,a 尖锐的；敏锐的；剧烈的
+4963,stimulus,n 刺激；刺激物；促进因素
+4964,pollen,n 花粉
+4965,cotton,n 棉，棉花；棉线
+4966,involved,a 复杂的
+4967,speculation,1 n 沉思，思索；设想，推测2 n 投机，投机事业
+4968,popularity,n 名气，名望；通俗性；大众性；流行；普及
+4969,scratch,1 n 抓痕；搔痕；抓伤（破）；刮坏2 v 潦草地写；涂写；乱画；打草稿
+4970,visual,a 视觉的，视力的
+4971,stake,n 利害关系；风险
+4972,ancestor,n 祖先；先祖，原种
+4973,cliff,n 峭壁，断崖
+4974,proceed,v 前进；进行
+4975,culminate,v 达到极点，达最高潮；告终（in）
+4976,pancreas,n 胰（腺）
+4977,spirit,n 精神，心灵，灵魂
+4978,alter,v 变更；改变
+4979,stick,1 n 棒，棍；枝条；柴2 v 粘住；贴；使固着；安置
+4980,moth,n 蛀虫；蛾
+4981,steal,n 便宜货
+4982,cylinder,n 圆筒；[数]柱（面），柱面；气缸
+4983,loosely,ad 宽松地，松散地
+4984,scheme,1 n 系统；配合；组织2 n 计划；方案；路线；设计
+4985,throw,1 v 扔，摔，投，掷2 v 摔倒，使翻倒；（将船等）冲上（暗礁等）；（马）把……摔下来
+4986,boost,v 推，升，提，支援；增加，提高；促进
+4987,innovation,n 创新，革新；改革
+4988,puddle,n （路上的）水坑，污水坑
+4989,trail,1 n 痕迹，足迹，线索2 v 跟踪追赶
+4990,pore,n 毛孔；气孔，细孔
+4991,wrap,v 卷，缠（绕），包裹
+4992,weary,a 疲倦的；感到厌倦的（of）
+4993,gland,n 腺
+4994,struggle,n&v 挣扎；努力，奋斗；同……斗争
+4995,radiation,n 发光，放热，辐射线（热，能）
+4996,spine,1 n 脊骨，脊柱2 n 棘状突起，刺，针
+4997,triumph,n&v 欢庆胜利，大成功，功绩（[opp]failure）
+4998,shovel,n 铲，铁锨  v 拿铲子铲
+4999,mineral,n 矿物；无机物
+5000,neoclassical,a 新古典主义的
+5001,landmark,n 路标，地界标，里程碑，划时代的事
+5002,functional,a 从使用的观点设计（构成）的
+5003,dilute,a&v 冲淡（的），搀淡（的），稀释（的）
+5004,burgeon,v 发芽，（突然）发展，急速成长
+5005,inherit,v 继承；遗传而得
+5006,solitary,a 独个儿的，孤独的；独居的（[opp]social）
+5007,freight,n 货运列车（=freight train）
+5008,insight,n 顿悟；洞察力；见识
+5009,vocation,n 职业，行业
+5010,behave,v 处身，行为，做人，举止，表现
+5011,row,1 n （一）排，（一）行；一排（座位）2 n （两旁或一旁有房屋的）路
+5012,precious,a 高价的，昂贵的；贵重的；宝贵的，珍贵的
+5013,whittle,v 切；削；削减，减少
+5014,barn,n 仓，谷仓，库房
+5015,impair,v 损害，损伤
+5016,lichen,n 地衣；苔藓
+5017,oxygen,n 氧，氧气
+5018,illusion,n 幻想；错觉
+5019,troop,n 大群；群集  v 成群结队地走
+5020,exert,v 用（力），尽（努力等）；发挥（威力等）
+5021,heed,n&v 注意，留意
+5022,confederacy,n 联盟，联邦
+5023,petal,n 花瓣
+5024,solder,v 焊；接合；锡焊；焊接；（使）结合
+5025,navigate,v 航行；驾驶（船舶、飞机等）；导航
+5026,fleeting,a 飞逝的，短暂的，飞跑的
+5027,jumble,n&v 搞乱，（使）混杂
+5028,inclination,n 倾向，嗜好
+5029,performance,n 执行，实行，演奏；演出
+5030,compact,1 a 密集的；紧密的；（文体等）紧凑的，简洁的2 v 把……弄紧密，把……弄结实，压实
+5031,wholesale,1 a&ad&n 批发（的、地）2 a 大规模的
+5032,talent,n 天资；才能；才干；本事
+5033,campus,n 校园
+5034,refer,1 v 涉及（to），说到2 v 表示，指示3 v 参考，引证，引用，翻阅，查看（账簿等）
+5035,dawn,n 黎明，拂晓；开端，发端（[opp]dusk）
+5036,genius,n 天才，天资，天赋，天分，才
+5037,peak,n 山顶，最高点
+5038,provision,n 预备，准备，设备（for；against）；供应
+5039,purchase,v 买，购买，努力取得，（付出代价）赢得
+5040,clue,n 线索
+5041,possess,v 具有（能力、性质等），掌握（知识等）
+5042,cautious,a 谨慎的，小心的
+5043,campaign,n 战役；竞选运动
+5044,rodent,n 啮齿动物  a 咬的，嚼的
+5045,quadrilateral,a&n 四边形（的）
+5046,synonymous,a 同义词的，类语的；同义的（[opp]antonym）
+5047,bark,n 树皮
+5048,asteroid,a 星状的  n 小行星
+5049,trick,1 n 奸计，诡计，骗术  v 欺骗2 n 戏法；快手把戏，幻术
+5050,curve,n 曲线  v 使弯曲，成曲线
+5051,select,v 选择；挑选；选拔
+5052,outstanding,a 显著的；凸出的，杰出的
+5053,spiral,a 螺旋形的  v 盘旋
+5054,jury,n 陪审团，（展览会、竞赛等的）全体评审员，评奖人
+5055,trench,n 沟，渠  v 掘沟
+5056,transmission,n 传递；传达；传送；发射；播送；通话；传输
+5057,label,n 贴条，标签；标记，符号  v 贴标签于，把……叫做，分类，把……列为
+5058,yarn,n 纱，纱线，毛线
+5059,consist,v 有……组成（of）；存在于（in）；并存，并立（with）
+5060,confirm,v （进一步）证实（确定）
+5061,towel,n 毛巾；手巾  v 用毛巾擦
+5062,flash,n&v （使）闪光，（使）闪烁
+5063,scene,1 n 事件，史实2 n 景色，景致，风景3 n 场，（舞台的）布景，（戏剧中的）一场
+5064,trip,n （短程）旅行，航行
+5065,elicit,v 引出，探出（事实等）；诱出（回答等）
+5066,dominate,v 操纵，支配
+5067,discern,v 辨别，分清；看出，认出
+5068,paddle,n 桨，桨状物；（轮船等的）蹼，桨板
+5069,tobacco,n 烟草；烟叶；烟丝，卷烟
+5070,urban,a 城市的（[opp]rural）
+5071,distort,v 歪扭，弄歪；曲解
+5072,panel,n 面，板；[建]四分板，门窗材，幅板，板条
+5073,precarious,a 不确定的，靠不住的；危险的
+5074,cellar,n 地窖，地下室
+5075,precede,v 领先于，居先于，在……之先
+5076,poverty,n 贫穷，缺乏，缺少，贫乏
+5077,hypothesis,n （[pl]-ses）假设；假说，[逻]前提
+5078,flax,n 亚麻；亚麻皮，亚麻纤维
+5079,needlework,n 针线活，女红；刺绣，缝纫
+5080,supplement,n&v 补足，增补
+5081,immortal,a&n 不死的（人、物）
+5082,nectar,n 花蜜
+5083,significance,n 意义，重要（性）
+5084,wit,n 智慧；理智；机智的人
+5085,calendar,n 日历
+5086,schedule,1 v 将……列入程序表（计划表，进度表）  n 排定，安排2 n 表（格）；清单，明细表
+5087,primate,n 灵长目动物
+5088,nebula,n 星云；云状，雾影
+5089,tribe,n 部落，部族；家族
+5090,amendment,n 改正，修正；修正草案
+5091,involve,v 包括，涉及
+5092,hang,v （hung，hanged）悬挂，垂吊（to；on；from）
+5093,proficiency,n 精通，熟练（in）
+5094,shuttle,v 穿梭般来回；短程来回运输  n [宇航]太空穿梭机
+5095,sting,n [昆]螫针  v 螫，刺；叮
+5096,marrow,n 髓，骨髓；精髓
+5097,modem,n 调制解调器  v 用调制解调器联通
+5098,warfare,n 战争，战争状态（行为）
+5099,coincide,v 与……一致，相合，符合，相符，相巧合（with）
+5100,accumulate,v 积累，存储
+5101,usher,v 引导，展示（in）
+5102,overturn,n&v 颠覆；推翻；打倒，（使）倒
+5103,rigid,a 刚硬的，坚定的，严格的，僵化的
+5104,frontier,n 边疆；边界，边缘
+5105,extract,v 分离出，提取
+5106,subjugation,n 镇压；平息
+5107,humanity,n 人类，人性，人情，人道
+5108,continuous,a 连续的，继续的
+5109,occasion,1 n （庆祝等的特殊）场合；（重大）时节，时刻2 n 机会；（适当的）时机
+5110,soap,n 肥皂
+5111,pinhead,n 针头；小东西，无聊东西；傻子，笨人
+5112,hierarchy,n 层次
+5113,controversy,n 争论，辩论
+5114,request,n&v 请求，恳求
+5115,overcome,v 打败，战胜，征服；克服（困难）
+5116,swing,1 n&v 摇摆，摇动，（往复）摇荡2 n 摇摆舞音乐
+5117,gulf,n 鸿沟；分歧，隔阂
+5118,release,1 v 释放；吐出，放出2 v 发表；发行
+5119,furnish,v 供给，供应，提供
+5120,intense,a 激烈的，强烈的；紧张的
+5121,regard,1 v 把……看做，把……视为，把……认为（as…）2 n 方面；事项，关系
+5122,exemplify,v （-fied）举例证明（解释）；示范；做……的范例
+5123,paramount,a 最高的，至上的，卓越的；胜过……的（to）
+5124,thought,n 思想，想法，意图，观念
+5125,sale,n 卖，出售；销量，销售额
+5126,theater,n 剧场，戏院
+5127,corrosion,n 腐蚀，侵蚀
+5128,burst,v 破裂，迸裂，爆炸；爆发出，喷出
+5129,fatigue,n 疲乏，劳累
+5130,lace,1 n 带子，花边2 v 交织
+5131,daring,a 胆大的，勇敢的
+5132,ape,n 猿
+5133,helium,n 氦
+5134,turnpike,n 收税高速公路，收费公路
+5135,caste,n （昆虫的）职别（如工蜂等）；等级（制度）
+5136,log,1 n 原木，圆木，干材  v （把树）砍倒，锯成圆材；拖（木头）2 v 航行；飞行；以……的时速飞行（航行）
+5137,discipline,n 学科
+5138,shake,v 摇；摇动；摇撼
+5139,volume,n 体积；容积
+5140,screen,1 n&v 粗筛；筛选（煤炭等）；甄别2 n 屏风；围屏
+5141,category,n 类型，种类
+5142,shield,v 防护；屏蔽  n 罩；屏；防御物
+5143,primal,a 第一的，最初的，首位的，主要的；根本的
+5144,repertory,n （尤指指示等的）贮藏，搜集；贮藏所
+5145,adorn,v 装饰，修饰，佩戴
+5146,democrat,n （D-）（美国）民主党党员
+5147,technical,a 技术（性）的；专门（技术）的
+5148,rattle,n 格格地响的东西
+5149,synthesis,n 综合，合成
+5150,encompass,v 包含
+5151,jaw,n 颌，鄂
+5152,zigzag,a 之字形的，锯齿形的，曲折的
+5153,chlorophyll,n 叶绿素
+5154,constitute,v 构成，组成
+5155,inherent,a 内在的，固有的，生来的
+5156,responsible,a 有责任的，应负责任的
+5157,commonsense,a&n 常识（的）
+5158,imply,v 暗示，包含；含有……的意思
+5159,promote,v 增进；提倡，发扬，促进
+5160,dictate,v 口述，听写；命令，支配，摆布
+5161,niche,1 n 适当地位，活动范围2 n 壁龛（搁雕像、花瓶等的墙壁凹处）
+5162,linear,a 线的，直线的
+5163,rival,v 相匹敌；对抗，竞争
+5164,adverse,a 逆的，相反的，不利的，有害的
+5165,mud,n 泥，泥浆；泥淖
+5166,rounded,1 a 圆形的；球形的2 a 多样的；多面的
+5167,discharge,v 放出（水等）；释放；[电]放（电）
+5168,equator,n 赤道
+5169,predominant,a 掌握主权的；有力的，有效的
+5170,peer,n 同辈，同事，伙伴；同等的人
+5171,copper,n 铜
+5172,net,1 n 网，网状物，网状组织，网状系统2 a 净的，纯的；基本的；最后的（[opp]gross）
+5173,figure,1 n 画像，塑像2 n 人物
+5174,tedious,a 单调沉闷的，令人生厌的，冗长乏味的
+5175,gentle,a 文雅的，有礼貌的，柔和的，轻柔的
+5176,abundant,a 丰富的，大量的
+5177,fame,n 名声，声望
+5178,prevail,v 胜，压倒，占优势；普遍；传开，盛行
+5179,lizard,n 蜥蜴
+5180,painstaking,a （不辞）劳苦的，费力的
+5181,sympathy,n 同感，赞成；一致，协调；同情（心），怜悯
+5182,tower,1 n 塔，楼塔；城堡2 v 高耸；胜过；（鹰等）翱翔
+5183,immune,a 免疫（性）的
+5184,vertical,a 垂直的，直立的，竖立的，纵的（[opp]horizontal）
+5185,burden,n 担子，负担，包袱
+5186,sheer,1 a 险峻的；陡峭的；垂直的2 a 绝对的；十足的；全然的
+5187,mundane,a 世俗的；平凡的
+5188,fashion,1 v 制造2 n 风气，潮流；时新式样
+5189,felt,n 毛毡；毛布；毡制品；油毛毡
+5190,inflation,n 膨胀；[经]通货膨胀（[opp]deflation）
+5191,survival,n 生存；幸存；幸存者；成活（植株）
+5192,cite,v 引用，举（例），列举
+5193,replicate,v 复制，反复
+5194,rental,a 租用的  n 租费
+5195,penicillin,n 青霉素，盘尼西林
+5196,flee,v （fled；fled）逃走（from；before）；逃避，逃出（from）
+5197,enthusiasm,n 热心，热情；热烈
+5198,forage,1 n 草料；饲料2 v 觅食
+5199,regional,a 地方（性）的；地方主义的；区域（性）的；局部的
+5200,propel,v 推，推进，驱使
+5201,domain,n 领土；（学问、活动等的）领域，范围
+5202,overall,1 a&ad 全部的（地），所有的（地），总的（地）2 n （套头）工作服，罩衫，（妇女、小儿等的）罩衣
+5203,twine,1 v 捻，搓；织，编2 n 二股（以上的）线，细绳；麻线（绳）
+5204,deter,v （-rred）防治，阻止
+5205,hook,v 钩住；沉迷
+5206,rope,n 绳索，麻索，索子
+5207,well,1 v （使）涌出，（使）喷出，（使）流出2 n 井；油井
+5208,shed,1 v 脱落；脱换；脱毛2 n 小屋；棚屋；堆房；库房
+5209,treasure,n 财富，金银财宝，珍宝；珍藏，宝藏
+5210,stroke,n 笔画
+5211,exhaustion,n 疲惫，衰竭
+5212,ichthyosaur,（[pl]ichthyosauria）[古生]鱼龙
+5213,ritual,a&n 仪式（的），礼仪（的）；典礼（的）；宗教仪式（的）
+5214,spark,1 n 火花；火星2 v 鼓舞，激励
+5215,pervasive,a 普遍的；深入的
+5216,aesthetic(al),a 审美的；美的，艺术的
+5217,continuum,n （[pl]-ua）[哲]连续（统一体）
+5218,ideal,a 理想的，典型的
+5219,dramatic,a 戏剧性的，激动人心的，引人注目的
+5220,opportunity,n 机会，好机会；凑巧，方便
+5221,plow,n 犁；黎形器具
+5222,butterfly,n 蝴蝶；蝶式，蝶形
+5223,attribute,1 v 把（某事）归因于……；认为……属于2 n 属性，特质
+5224,strength,n 力量，体力；强度，浓度；长处（[opp]weakness）
+5225,hide,n 兽皮，皮革
+5226,seriously,ad 严肃地；认真地；严重地
+5227,superior,a 较高的，上级的，有优势的，出众的（[opp]inferior）
+5228,soldier,n 军人；（陆军）士兵；战士
+5229,connoisseur,n 艺术（品）的鉴定家，行家，内行，权威（in，of）
+5230,luminous,a 发光的；明亮的；照耀着的；辉耀的
+5231,alarm,n 警报；恐慌
+5232,thereafter,ad 此后
+5233,wagon,n （二马以上的四轮）运货马车
+5234,eject,v 喷出，吐出（烟等）；发射，喷射
+5235,escape,v 逃走，逃脱，逃逸；避免
+5236,arise,v 出现；发生
+5237,rent,n 裂缝，缝隙；（意见等的）分裂，分歧
+5238,contact,n 接触；联系
+5239,statistics,n 统计学，统计法；统计数字（资料）
+5240,nitrogen,n 氮，氮气
+5241,pendulum,n （钟等的）摆，动摇的人（物）；犹豫不决的人
+5242,flame,n 火焰；光辉，光芒  v 燃烧
+5243,garbage,n 垃圾，废物
+5244,entrepreneur,n 企业家；创业人
+5245,alloy,n 合金
+5246,explode,v 使爆炸
+5247,vision,1 n 视力，视觉2 n [不用冠词]先见，洞察
+5248,dimension,n 尺寸；[数]维（数）；[pl]容积；面积；大小，规模，范围
+5249,tavern,n 酒馆，小旅馆，客栈
+5250,cone,n 圆锥；圆锥形火山；（松树的）球果
+5251,memorable,a 可记忆的，难忘的
+5252,rat,n 鼠（比mouse要大）
+5253,equivalent,a&n 相当（的），相同（的），同等的（物）；等价的（物）
+5254,cargo,n （船上的）货；负荷
+5255,assume,1 v 假定，想象，设想；以……为先决条件2 v 承担，担任
+5256,bodily,a 躯体的，身体的，肉体的
+5257,coral,n 珊瑚；珊瑚虫
+5258,per capita,每人，按人数分配的
+5259,recycle,n&v （使）再循环；（使废物回收后）反复利用
+5260,bias,n 成见，先入之见，偏执，偏见（[opp]impartiality）
+5261,wren,n 鹪鹩（北美地区褐色的小鸟）
+5262,tornado,n 大旋风，龙卷风
+5263,fascinate,v 迷住，使神魂颠倒
+5264,ornament,n 装饰，修饰；装饰物（品）  v 装饰，修饰；美化
+5265,volatile,a 挥发（性）的
+5266,exponent,1 n 典型2 n [数]指数；幂
+5267,calcium,n 钙
+5268,comet,n 彗星
+5269,weather,v 使风化
+5270,turtle,n 龟，海龟
+5271,flake,n 薄片
+5272,auditory,a 耳的，听觉的
+5273,intimate,a 亲密的，亲近的，密切的
+5274,tube,n 管，管道；管状地下隧道
+5275,sensitive,a 敏感的，感觉灵敏的
+5276,lucrative,a 有利的，赚钱的，合算的
+5277,distract,v 分散（注意力等），岔开（念头等）（[opp]attract）
+5278,compile,v 汇集，编辑
+5279,illustrate,v （用例子、图解等）说明；举例证明
+5280,elevate,v 举起，抬高（声音、炮口等）
+5281,secrete,v 分泌
+5282,relax,v 松弛，放松，休养，休息
+5283,telescope,n 望远镜
+5284,plot,n&v 密谋，图谋；策划
+5285,mason,n 石匠；（中世纪的）工匠工会会员
+5286,emit,v （-tt-）出（声），发、放（光等），发射，放射（热等）
+5287,textile,n 纺织品；纺织原料  a 纺织（品）的
+5288,pasture,n 牧场；草地
+5289,observatory,n 气象台，天文台
+5290,enroll,v 把……记入名簿；登记
+5291,unlikely,a [后接不定式，可用作表语]不大可能的，不一定有把握的
+5292,weed,n 杂草
+5293,critic,n 批评家
+5294,lighthouse,n 灯塔
+5295,angle,n 角
+5296,pine,n [植]松树；松木
+5297,tip,1 n （塔、手指、尾巴等的）尖，尖端，末端2 v 倾斜；翻倒；翻
+5298,temperate,a （气候等）温和的
+5299,inspire,v 使生灵感，使感悟，使感动
+5300,risk,n 风险，危险  v 冒险
+5301,longing,a 渴望的，热望的  n 渴望
+5302,union,n 工会
+5303,approximately,ad 近似，约计
+5304,sort,1 n 种类，类别，品种；种2 v 分类；整顿，整理
+5305,assign,1 v 指定，选定2 v 把……归因于
+5306,remainder,n 剩余物，残余  a 剩余的
+5307,recover,1 v 重新获得（找到）（失传的技术等）（[opp]lose）2 v 恢复；痊愈（from；of），清醒（[opp]dateriorate）3 v 赔偿（损失等）；取得（损害、赔偿等）
+5308,ultimate,a&n 最终（的），根本（的）
+5309,brass,n （主[pl]）黄铜制品；铜管乐器
+5310,foremost,a 最初的，最前的；第一流的；主要的
+5311,streamline,v 把……做成流线型；调整（机构等）使现代化或提高效率
+5312,sulfur,n 硫（磺）
+5313,previous,a 先，前；以前的
+5314,coat,1 v 包上，涂上，盖上2 n （动物的）毛皮；（植物的）表皮；（漆等的）涂层
+5315,universal,1 a 一般的，普遍的2 a 宇宙的
+5316,crystal,a&n （结）晶体（的）；水晶（制的）
+5317,minutely,ad 详细地，精密地
+5318,predator,n 捕食其他动物的动物，食肉动物
+5319,tissue,n 组织
+5320,parasite,n 寄生物；寄生虫；寄生菌；食客
+5321,spare,1 v 使某人免遭（麻烦等）2 a 粗陋的；俭朴的
+5322,stub,n 剩余部分；残留部分
+5323,address,v 应付，处理（问题）
+5324,periodic,a 周期的，定期的，定时的
+5325,poison,n 毒；毒药
+5326,ministry,n 牧师；部长的任务（职务、任期）；政府部门
+5327,treat,1 v 对待，待遇；处置；处理2 n&v 探讨，论述
+5328,straight,a 直的，一直线的；笔直的，直挺的
+5329,beaver,n 海狸，海獭
+5330,celebrated,a 驰名的，有名的，大名鼎鼎的
+5331,mission,n 使命，任务，天职  v 给……交待任务；派遣
+5332,realism,n 现实主义，现实性
+5333,potassium,n 钾
+5334,inhibit,v 抑制，阻止
+5335,pyramid,n 金字塔
+5336,Jupiter,n 木星；[罗神]（主神）朱庇特
+5337,funnel,n 漏斗，漏斗形物
+5338,title,1 n 标题，题目，题；篇名，书名2 n [律]土地财产所有权；地契
+5339,renounce,v 抛弃，放弃，背弃
+5340,requirement,n 要求，需要，必要条件，资格（for）
+5341,beneficial,a 有利的，有益的（to）（[opp]injurious）
+5342,sector,n 部分，地区，分区
+5343,content,1 a 满足的，甘心的2 n 容量，含量3 n [pl]内容，内含物；（一本书的）目次；目录
+5344,chunk,n 大块
+5345,thwart,v 反对；阻挠；挫败（对方意图等）
+5346,meteorologist,n 气象学家
+5347,interval,n （时间、空间方面的）间隔
+5348,generous,a 宽大的，慷慨的，大方的，丰盛的，丰富的
+5349,twig,n 丫枝，细枝
+5350,bubble,n 泡，水泡；气泡；泡沫
+5351,fertile,1 a 肥沃的，丰饶的；多产的，丰富的（of；in）（[opp]sterile）2 a 能生育的，有繁殖能力的；已受孕（受精）的
+5352,resin,n 树脂；松脂；树脂状沉淀物
+5353,enhance,v 提高；增强
+5354,sight,n 壮观；奇观；风景
+5355,rank,1 v 把……分类，分等级2 v 并列；位于3 n 等级，地位
+5356,shrimp,n 小虾；河虾
+5357,ethic,n 伦理观，道德标准
+5358,alternate,a 交替的，隔一的，间隔的
+5359,tremendous,a 可怕的，惊人的；巨大的；非常的，<俚>极好的
+5360,mechanism,n 机制，机能；（机械）结构；机械装置（作用）
+5361,highlight,v 在……上投上强光；强调，使显著
+5362,sustain,v 支撑，支持；补养；维持；使……持续
+5363,fuel,n 燃料，柴炭  v （给……）加油
+5364,moderate,a 中等的；适度的；有节制的
+5365,republic,n 共和国；共和政体（[opp]monarchy）
+5366,secondary,1 a 第二（位）的，第二次的；中级的2 a 副（的）；从属的；次要的
+5367,beacon,n （作为信号的）烽火，灯塔
+5368,cranial,a 颅的
+5369,slightly,ad 有一点，略；轻微地，轻轻地（[opp]considerably）
+5370,gallery,n 美术馆，美术品陈列室，画廊；回廊，走廊
+5371,inability,n 无能，无力
+5372,pigeon,n 鸽子
+5373,zinc,n 锌（Zn）
+5374,perishable,a 易腐败的；脆弱的
+5375,edible,a 适合食用的，可以吃的（[opp]poisonous）
+5376,dime,n （美、加）一角银币
+5377,nostril,n 鼻孔；鼻孔内壁
+5378,litter,1 n 枯枝层，落叶层；（兽类睡眠用的）褥草，垫圈2 n （猪等）同胎生下的小崽3 v 乱丢东西，乱丢废物（垃圾等）
+5379,pure,a 纯的，纯粹的；清一色的（[opp]mixed）
+5380,consume,v 消费，消耗
+5381,majestic,a 有威严的，威风凛凛的
+5382,fair,1 n 定期集市，庙会2 a 公平的，合理的
+5383,lump,n 块，团  v 使成块，使成团
+5384,testify,v 证明；证实
+5385,cube,n 立方体（形）；三次幂
+5386,calorie,n 卡（路里）（热量单位）
+5387,ceremony,n 典礼，仪式
+5388,carbon,n 碳
+5389,produce,n 农产品
+5390,propensity,n 倾向，嗜好，癖
+5391,reap,1 v 收割，采收2 v 得到，获得
+5392,utter,1 v 发出（声音等）；讲，说2 a 完全的，十足的
+5393,adjunct,n 附属物，附件
+5394,condense,v 压缩；使浓缩
+5395,expose,v 使暴露；使曝光
+5396,glue,n 胶，胶水，各种胶状物
+5397,generalization,n 一般化，普遍化
+5398,routine,n 例行公事，日常工作；常规；惯例  a 日常的，常规的
+5399,molecular,a 分子的，由分子形成的
+5400,shelf,1 n 架子2 n 大陆架
+5401,porpoise,n 海豚
+5402,exclusive,a 独有的，唯一的；专有的
+5403,harm,n 损害，伤害；危害
+5404,threat,1 n 凶兆，危险2 n 恐吓，威吓，威胁
+5405,civic,a 城市的，市民的
+5406,sensory,a 感觉（上）的；感官的；知觉器官的
+5407,decline,n&v 下降；衰老
+5408,conquer,v 征服；攻克
+5409,wipe,v 擦去，消除（away；off；up）
+5410,instant,a 立即的，直接的
+5411,rearrange,v 重新整顿，重新布置，重新排列
+5412,falcon,n 隼，（猎鹰的）母鹰
+5413,anxiety,n 悬念，挂念，忧虑；切望，渴望
+5414,scholar,n 学者，有文化的人
+5415,smug,a 沾沾自喜的，自以为是的
+5416,reservoir,1 n 贮水池，水库2 n （知识、精力等的）贮藏，积蓄
+5417,repeat,v 反复，复述
+5418,olfactory,a 嗅觉器官的，嗅觉的
+5419,kerosene,n 煤油，火油
+5420,prosper,v （使）兴隆，（使）繁荣；（使）成功
+5421,meander,v 曲曲折折地流；蜿蜒，弯曲
+5422,mention,n&v 说到，提及；提述；提名表扬
+5423,elliptic(al),a 椭圆（形）的
+5424,scarce,a 缺乏的，不足的；稀有的，罕见的
+5425,rectangular,a 矩形的，长方形的；成直角的
+5426,vault,n 拱顶，穹窿
+5427,folk,a 民间的  n （folks）人们
+5428,patent,n 专利（权）；专利品，特权
+5429,squeeze,v 挤，压，塞
+5430,vulnerable,a 脆弱的；易受责难（攻击、损坏）的
+5431,thumb,n 拇指
+5432,array,n 一大批，一大群，一连串
+5433,reddish,a 带红色的，淡红的，微红的
+5434,avenue,n （南北向）街道（东西向称street）
+5435,reef,n 暗礁，礁脉
+5436,crust,n 外皮，壳；地壳
+5437,percentage,n [数]百分法；百分数；百分比；[商]手续费，佣金
+5438,indispensable,a 不可缺少的，必需的，重要的
+5439,alien,a&n 外来（的）；异己（的）；不熟悉（的）
+5440,spider,n 蜘蛛
+5441,doctrine,n （宗教、政治方面的）教旨，教条；教义
+5442,tile,n 瓷砖，砖瓦  v 铺瓦，砌瓷砖
+5443,dispute,n&v 辩论，争论；争吵；争端
+5444,aggregate,a&n 聚集（的），集合（的），总计（的），共计（的）
+5445,religion,n 宗教，宗派，信仰
+5446,lipid,n 脂类
+5447,notwithstanding,ad&conj&prep 虽然，尽管……仍……
+5448,sieve,n （细眼）筛，过滤网  v 筛，筛选
+5449,shock,n&v （使）震惊；（使）惊骇
+5450,journal,n 日记，日志，航海日记
+5451,execute,v 执行；履行；贯彻，完成
+5452,nomadic,a 游牧的；流浪的
+5453,sole,1 a 单独的，单一的，惟一的2 n 鞋底；脚底，袜底
+5454,strict,a 严格的；严谨的；严密的
+5455,tumble,n&v 打滚，翻滚
+5456,swift,a 飞快的，迅速的，敏捷的（[opp]slow）
+5457,vocal,a 声的，（关于）声音的  n [语音]元音
+5458,rebel,n 造反者，反叛者；起义者，反抗者
+5459,pitch,1 n 音高；音高标准2 n 沥青
+5460,target,n 靶子，目标；对象  v 把……作为目标，瞄准
+5461,reward,v 报答，酬劳，奖赏  n 酬金，报酬
+5462,severe,a 严重的，严峻的；剧烈的
+5463,inhabit,v 居住；栖息
+5464,herd,n 兽群，（牛）群，（猪）群
+5465,listless,a 冷淡的；懒洋洋的，无精打采的，倦怠的
+5466,correspond,v 与……一致，符合（to；with）
+5467,canoe,n 独木舟
+5468,analogy,n 类比，相似
+5469,meteorite,n 陨星，陨石
+5470,humidity,n 湿气；湿度
+5471,influx,n 流入，注入
+5472,absorb,v 吸收
+5473,crowd,n&v 拥挤
+5474,conduct,1 v 实行；进行2 v 传导，传（热、电等）
+5475,retire,1 v 退休，退职2 v 就寝；睡觉3 n 收回（纸币等）
+5476,shaft,1 n 光线；电光2 n 隧道，管道
+5477,urge,1 v 极力主张；强烈要求2 n 刺激，冲动，迫切要求
+5478,ignorant,a 无学识的，无知的，愚昧的
+5479,supervise,v 监督；管理
+5480,harmonious,a 悦耳的，和谐的；融洽的；和睦的
+5481,prominent,a 突出的；显著的；杰出的；卓越的
+5482,utensil,n 器具，用具；家庭厨房用具
+5483,strand,n （绳子的）股；一股绳子；纤维，绳，线；串
+5484,smoke,n 烟，烟尘  v 用烟熏，熏制
+5485,stroll,v 慢慢地走，散步，闲逛，游荡
+5486,ridge,n 脊；脊背；山脊；分水岭
+5487,plain,n 平地，平原，旷野
+5488,splendid,a 杰出的，显著的，伟大的，名声赫赫的
+5489,fluid,n 流体，液
+5490,tape,n 磁带，狭带
+5491,melody,n 旋律，曲调；好听的声音；歌曲
+5492,outgoing,a 对人友好的；开朗的
+5493,abuse,n&v 滥用，乱用
+5494,vertebrate,a&n 脊椎动物（的）
+5495,split,v 裂开，劈开；分离，分开  a 裂开的；分离的，分裂的
+5496,camp,n 野营，露营地
+5497,challenge,n 挑战
+5498,mold,1 n 模子，铸型  v 浇铸，塑造2 n 霉；霉菌，霉病（又作：mould）
+5499,mild,a 温和的，温良的，轻微的；适当的
+5500,rear,1 a&n 后部（的），背面（的），屁股（[opp]front）2 v 抚养，教养
+5501,deceive,v 欺，瞒
+5502,bunch,n 球，束，朵，串
+5503,rail,n 轨道；钢轨；铁路
+5504,wax,n （蜂）蜡；蜡状物
+5505,pull,v 拉，拖，牵，拽（[opp]push）
+5506,hormone,n 荷尔蒙，激素，内分泌
+5507,infect,v 传染；感染
+5508,atheist,n 无神论者；不信神的人
+5509,monument,n 纪念碑，纪念物，不朽的功业（著作）等
+5510,provoke,v 触怒，使愤怒，成为……的原因，引起
+5511,adobe,n 砖坯
+5512,canal,n 运河；沟渠
+5513,aquatic,a 水生的，水栖的
+5514,giant,a 巨大的  n 巨人；巨兽
+5515,barrier,n 栅栏，障碍；壁垒
+5516,bizarre,a 稀奇古怪的，不同寻常的
+5517,prison,n 监狱，拘留所；监禁，禁闭
+5518,scavenger,n 食腐动物（指食腐物腐尸）
+5519,various,a 不同的，各种各样的
+5520,realize,1 v 领悟，了解，体会2 v 实现，实行（希望、计划等）
+5521,commerce,n 商业；商务，贸易
+5522,circumstance,n （常[pl]）（周围的）情况，情形，环境
+5523,rift,n 断裂
+5524,sanctuary,1 n 圣所，圣堂；礼拜堂，神殿2 n 禁猎期，禁猎区
+5525,rhinoceros,n 犀牛
+5526,subspecies,（[sing]，[pl]）n [生]亚种
+5527,sum,v 合计，总计  n 总额；[数]和
+5528,assemble,1 v 集合；聚集2 v 装配
+5529,cavity,n 穴，腔，空腔
+5530,recall,v （使）想起；（使）回忆
+5531,exploit,v 利用，开发
+5532,cartoon,n （报刊上的）漫画；连环画
+5533,install,v 任命，使就（职），把……安插到（in）
+5534,fantasy,n&v 空想，幻想
+5535,jar,1 v 使震动，使摇动2 n （圆柱形、大口的）罐子，坛子，瓶子
+5536,via,prep 凭藉，以……为媒介，通过（某种手段）
+5537,boil,v 沸腾，达到沸点，开，滚，煮滚；汽化
+5538,progress,n 前进，进行，发育，进化
+5539,depress,1 v 压下，压低（声调等），放低（[opp]raise）2 v 使沮丧；使萧条
+5540,inevitable,a 不可避免的，不可逃避的；必然的
+5541,orchid,n （温室栽培种）兰，兰花
+5542,rage,1 n [口]时兴东西2 v （战争）猛烈进行
+5543,intact,a 未经触动的，未受损的，原封不动的
+5544,conflict,n&v 冲突，矛盾
+5545,inland,a 内地的，内陆的
+5546,botanical,a 植物（学）的
+5547,arch,n 拱门；弓形门  v 把……做成拱形；使弯做弓形
+5548,distant,a 远的，远方的，远离的
+5549,telegraph,n 电报；信号机
+5550,boom,n （城市等的）急速发展；（物价等的）暴涨；（人口等的）激增
+5551,gibbon,n 长臂猿
+5552,suffer,1 v 遭受，蒙受；经受；忍受2 v 受害，受损失，受苦
+5553,incorporate,v 使混合；使加入
+5554,invertebrate,a&n 无脊椎动物（的）
+5555,collaboration,n 合作
+5556,insult,n&v 侮辱，凌辱
+5557,vegetation,n （集合词）植物，植被
+5558,entail,n&v 使蒙受，使产生，带来
+5559,totality,n 完全，完备；全体，总数
+5560,ready,1 a 已做好准备（预备）的2 a 现成的，现有的
+5561,prolific,a 有生产力的；多产……的（of）
+5562,strive,v 力求，努力；竞争，斗争；反抗
+5563,sustenance,n 食物，营养；生计；支持（物）
+5564,global,a 球面的，球状的，全球的，世界的
+5565,clumsy,a 笨拙的；愚笨的
+5566,symmetrical,a 对称的，匀称的，相称的，平衡的（[opp]asymmetrical）
+5567,superheat,v 使过（度加）热
+5568,concrete,1 n 混凝土2 a 具体的，实在的
+5569,roof,n 屋顶，最高部，顶部
+5570,recruit,v 招募（新兵），召集
+5571,symbiosis,n 共生（现象），共栖
+5572,feat,n 卓绝的手艺，技术，本领
+5573,glassy,a 玻璃质的，玻璃状的
+5574,brittle,a 易碎的，脆的；脆弱的；易损坏的
+5575,trumpet,n 喇叭；小号
+5576,windswept,a 暴露在风中的
+5577,dealer,n 商人，……商
+5578,dilemma,n 窘境，困境，进退两难
+5579,radar,n 雷达，无线电探测器
+5580,account for,证明，说明
+5581,circuit,1 n [电]电路，线路；回路2 n 巡回，周游
+5582,endow,v 捐赠
+5583,summit,n 顶，绝顶；顶点
+5584,marvelous,a 奇异的，不可思议的，奇怪的
+5585,soup,n （浓）汤；浓汤般的东西
+5586,occupy,v 占领，占据；侵占；占用，占有；占（时间、空间等）
+5587,interfere,v 妨碍，打扰
+5588,autonomy,n 自治；自治权
+5589,optical,a 眼的；视觉的；视力的；帮助视力的；光学（上）的
+5590,integral,a 完全的；缺一不可的，主要的
+5591,resemble,v 像，类似，相似
+5592,carnivore,n 食肉动物（[opp]herbivore）
+5593,exempt,a&v 被免除（的），被豁免（的）（from）
+5594,lip,n 嘴唇；唇状物
+5595,touch,1 v 触，碰，摩，摸2 v 使开始，激起，触发3 n 修饰，添画，润色
+5596,sparse,a 稀疏的；稀缺的；瘦小的（[opp]dense）
+5597,antiquate,v 使变旧；使过时
+5598,shade,1 n 朦胧色；浓淡；色调2 n 荫；阴处；树阴
+5599,reserve,n 贮藏物，贮藏量，保留地，贮藏所  v 保留，储备（以备后用的）
+5600,vinegar,n 醋
+5601,orchestra,n 管弦乐；管弦乐队
+5602,lathe,n 车床，镟床
+5603,moral,a&n 道德（上的）（[opp]immoral）；精神（上的）（[opp]physical，practical）
+5604,core,n 果心；地核；中心
+5605,lure,v 引诱，诱惑  n 魅力；诱惑品，诱饵
+5606,shift,n&v 变迁；变化；变换
+5607,sharp,1 a 清晰的；轮廓鲜明的；明显的2 a 急剧的；激烈的；强烈的
+5608,staff,n （全体）工作人员
+5609,ascend,v 上升，登高
+5610,embryo,a&n （[pl]embryos） 胚胎（的），胚（的）
+5611,positive,a 明确的，积极的；建设性的；肯定的（[opp]negative）
+5612,convince,v 使确信，说服，使承认
+5613,plentiful,a 丰富的
+5614,invade,v 侵入，侵略
+5615,congress,n （美国）国会
+5616,bleak,a 风吹雨打的，无遮蔽的
+5617,persist,v 坚持，巩固（in），继续存在，存留
+5618,conservative,a 保守的，守旧的
+5619,corridor,n 走廊；通路
+5620,geographic,a 地理学的，地理的
+5621,stalk,n 茎，柄，秆，轴
+5622,geometric,a 有几何图形的
+5623,drip,n 水滴  v 滴下
+5624,magical,a 不可思议的
+5625,rural,a 乡下的，农村（风味）的（[opp]urban）；地方的；农业的
+5626,virus,n 病毒
+5627,mushroom,1 n （主指食用）蘑菇；蘑菇状物；蘑菇状烟云2 v 迅速增长
+5628,tragedy,n 悲剧；惨剧，悲惨事件
+5629,zone,n （地）带
+5630,patron,n 赞助人，主顾
+5631,fungus,n （[pl]funguses，fungi）真菌（包括霉菌、酵母菌和伞菌等）
+5632,beast,n 动物，牛马，家畜
+5633,modify,v 变更；修改；调节
+5634,aluminum,n 铝
+5635,toxic,a 有毒的；中毒的
+5636,perpetuate,v 使用就存在（继续）；使不朽，使不灭
+5637,horsepower,n 马力
+5638,bare,a 裸的，裸体的；仅有的，极少的
+5639,pamphlet,n 小册子；（时事问题等的）小册子刊物
+5640,systematic,a 有系统的，成体系的
+5641,volcano,n 火山
+5642,innumerable,a 无数的，数不清的
+5643,load,n 装载，胆子；负担；工作（负荷）量
+5644,hinterland,n 内地，偏僻地区
+5645,unaided,a 未受（无人）帮助的
+5646,sail,1 n&v 扬帆行驶，航行；滑行，滑翔2 n 帆，帆形物
+5647,motif,n （图案的）基本花纹，基本色彩；（艺术作品的）主题，动机，主旨
+5648,replenish,v 装足，装满，补充（钱袋等）；加强（[opp]deplete  v 减少，损耗）
+5649,wander,v 漫步；漫游
+5650,outline,1 n 外形，轮廓  v 画轮廓；打草图，描略图2 v 概括地论述，略述  n [常pl]梗概，大纲；草稿；要点
+5651,channel,1 n 水道，渠，沟2 v 为……开辟途径，引导
+5652,compress,v 压缩，浓缩
+5653,pregnant,a 怀孕的，有孕的，怀胎的
+5654,abhor,v （-horred；-horring）憎恶，厌恶，嫌弃
+5655,arctic,a&n 北极（的）；寒带（的）（[opp]antarctic）
+5656,hover,v 翱翔，盘旋
+5657,phenomenon,n 现象；事件
+5658,spacious,a 广阔的，宽敞的（[opp]cramped）
+5659,obsess,v 缠住，迷住；使着迷；使烦扰
+5660,bow,n 弓；弓形物，琴弓
+5661,soaring,a 翱翔的（鹰等）；高耸云霄的（尖塔等）
+5662,cling,v 缠住，绕住
+5663,publication,n 发行物，出版物，刊物
+5664,coil,n （一）卷，（一）盘，（一）圈；[电]线圈  v 卷，盘绕
+5665,furnace,n 炉子；熔炉  v 在炉中烧热（金属）
+5666,arbitrary,a 任意的；强词夺理的
+5667,ratify,v 批准，认可（代理商等）；追认
+5668,bronze,n 青铜，古铜
+5669,crucial,a 至关紧要的；决定性的
+5670,astonishing,a 令人惊讶的
+5671,grain,1 n 谷物，粮食2 n （木材、大理石等的）纹理
+5672,transaction,n 交易；业务，事务
+5673,stagecoach,n 公共马车，驿站马车
+5674,glimpse,n 一瞥，瞥见
+5675,fragment,n 碎屑，碎片
+5676,reform,1 n&v 改革，改良，革新（制度、事业等）2 v 改过自新，矫正（品性等）
+5677,hall,n 会馆，会场，会堂；展览厅
+5678,fir,n 冷杉木，枞木
+5679,probe,v （用探针）探查；探索
+5680,admission,1 n 允许进入；许可入场（入学、入会）2 n 承认；首肯
+5681,rush,1 n&v 向前猛进，冲，突进2 n 蜂拥而至；激增，猛长；繁忙
+5682,scruple,n 顾虑；迟疑；犹豫
+5683,definite,a 明确的；确定的
+5684,enormous,a 巨大的，庞大的
+5685,charcoal,n （木）炭
+5686,staple,n 主要产物（商品）
+5687,proposition,n 提议，建议；主张
+5688,basic,a 基础的，基本的，根本的
+5689,phrase,n 短语；格言，箴言
+5690,interstellar,a 星际的
+5691,glacial,a 冰的；冰状的
+5692,lodge,n 小屋，帐篷
+5693,obscure,a 不清楚的，含糊的  v 使不明显
+5694,roll,1 v 滚转，旋转2 v 包卷，卷拢，卷捆，卷起3 v 波动，起伏
+5695,terrestrial,1 a 地球（上）的；陆地的，陆生的，陆栖的2 a 人间的，现世的
+5696,pole,n 极，极点，顶点
+5697,seep,v 渗出；漏出；（观念等）渗入
+5698,rebuild,v 重建，使复原，改造
+5699,succeed,v 接连，继承，继续，接着……发生
+5700,shale,n 页岩
+5701,debris,n 碎片，破片；岩屑
+5702,reside,v 居住；留驻；停留；存在
+5703,portion,n 一部分，一份
+5704,component,n 部分，成分
+5705,stock,1 n 股份，股票2 n 库存品，存货，贮存；买进的货，进货
+5706,irresistible,a 不可抗拒的
+5707,rust,v 生锈  n 锈；铁锈
+5708,structural,a 构造上的，结构上的，组织上的
+5709,essence,n 本质（[opp]phenomenon）；精髓
+5710,deliberate,a 深思熟虑的，盘算周到的
+5711,retrieve,v 找回；取回
+5712,monster,n （想象中的）怪物；（尤指史前的）怪兽，巨兽
+5713,nostalgia,n 怀乡病，乡愁，怀旧，留恋过去
+5714,illuminate,v 照亮，照明
+5715,subtle,1 a 微妙的，难于捉摸的，难解的（[opp]obvious）2 a 敏感的，敏锐的；精细的；巧妙的，精巧的
+5716,linguistic,a 语言的；语言学的
+5717,beam,n （光线的）束，道，柱；波束，射束
+5718,moisture,n 湿气，水分，潮湿；湿度；（空气中的）水蒸气；泪
+5719,superintendent,n 管理人，监督人，指挥人；（某一部门的）主管，负责人
+5720,supernatural,a 超自然的；不可思议的，怪异的
+5721,slope,n 坡，斜坡，斜面；倾斜，坡度
+5722,till,1 conj 直到……为止2 n 冰碛土（物）
+5723,scatter,n&v 散步；散播
+5724,depict,v 画，刻画，描写；叙述
+5725,remote,a 遥远的，偏僻的；很久以前（以后）的
+5726,steer,v 掌（舵）；驾驶（船、车）；操纵，控制
+5727,wrought,a 制造的；锻炼的
+5728,civilian,n 市民，平民
+5729,intriguing,a 引起兴趣的，有魅力的
+5730,respect,n 关系；着眼点，方面；细目
+5731,vestige,n 痕迹，遗迹；证据
+5732,hunger,n 饥，饥饿
+5733,acid,n 酸  a 酸性的；尖酸刻薄的
+5734,stagnant,a 停滞的，不流动的；萧条的，不景气的
+5735,flavor,n 风味
+5736,immediate,a 即时的，立即的
+5737,morphology,n 形态学，组织，形态
+5738,vapor,n 汽，蒸汽
+5739,crisscross,a&n&v 十字交叉（的）
+5740,makeup,n 组成，结构
+5741,overlap,n&v 重复，部分一致；重叠；复合
+5742,municipal,a 市政的，地方性的，市营的
+5743,spectacle,n 光景，景象，状况；奇观，壮观
+5744,ample,a 丰富的，充足的，富裕的
+5745,foliage,n [集合词]（树的）叶子
+5746,penchant,n （强烈的）倾向，嗜好，爱好（for）
+5747,kiln,n 窑
+5748,outgrow,v 长得比……快（大）；发展得比……快；过大而不适于
+5749,dissolve,v 使溶解；使分解，使分离
+5750,paraphrase,n&v 释义；意译
+5751,Celsius,a 摄氏的
+5752,artifact,n 人工制品；人为现象
+5753,loyal,a 忠诚的；忠实的
+5754,outlying,a 远离中心（主体）的，边远的
+5755,suppose,v 设想，推测；假定
+5756,tap,1 v 开辟，开发2 v 轻打，轻敲
+5757,stretch,v 伸展，伸出；展
+5758,stony,a 石的，石头的，石质的，像石头（一样硬）的，多石的
+5759,masterpiece,n 杰作，名著
+5760,immigrant,a&n （来自外国的）移民（的）
+5761,match,v 相称，相适合，相配；结合
+5762,gigantic,a 巨大的；庞大的，巨人似的
+5763,polar,a （南、北）极的，地极的
+5764,crude,a 天然的，未加工的
+5765,chaos,n 混乱
+5766,haunt,v 常去，常到（某地）；缠住（某人）
+5767,resort,1 n 热闹场所，娱乐场；胜地2 v 倚靠，凭借  n 手段
+5768,terrace,n 台地，平台  v 使成台地，筑坛建造成平顶
+5769,revival,n 苏醒；复生，复活；复兴
+5770,rally,v 召集，纠合，团结
+5771,instrument,n 手段，工具；仪表，仪器；乐器
+5772,weird,a 离奇的，古怪的
+5773,retreat,n&v 后退，撤退，退缩，凹进
+5774,prerequisite,n 先决条件  a 必须先具备的，必要的；先决条件的（to）
+5775,timber,n 原木，木材，木料；（可做木材的）树木；森林；林场
+5776,myriad,n 无数，极大数量  a 无数的；众多方面的
+5777,declare,v 声称；宣布
+5778,manipulate,v 巧妙地处理，巧妙地使用
+5779,limitation,n 限制；界限；极限；限制因素
+5780,convention,1 n 习俗，惯例2 n 会议
+5781,sphere,n 球；球体，圆体，球面，球形；天体；星，行星
+5782,texture,n （织物的）组织，结构，质地
+5783,erode,v 侵蚀，腐蚀
+5784,camouflage,n&v 伪装
+5785,typical,a 代表的，典型的
+5786,gamma,n 伽马射线
+5787,fuse,v 熔合
+5788,vague,a 含糊的，笼统的
+5789,springboard,n 跳板，出发点
+5790,disposal,n 处置，处理
+5791,aspiring,a 有大志的，抱负不凡的；热望的
+5792,abrupt,a 突然的，生硬的
+5793,auger,n 螺（丝）钻，钻孔器；钻孔机
+5794,notable,a 值得注意的，显著的；著名的，显要的
+5795,critical,1 a （在某方面）有鉴定力的（in）2 a 决定性的，重大的
+5796,pace,n 步，步调，速度，进度
+5797,rid,v 使脱除，使摆脱
+5798,injury,n 损害，毁坏，伤害
+5799,irreverent,a 无礼的
+5800,chisel,n 凿子
+5801,pueblo,n （[pl]pueblos）印第安人的村庄
+5802,squash,n 南瓜，西葫芦
+5803,trigger,v 触发，激起
+5804,cedar,n [植]雪松；雪松木
+5805,plasma,n 血浆；淋巴液；等离子（体）；等离子区
+5806,profit,n [常pl]盈余，利润，赚头（[opp]loss）；利润率
+5807,rod,n 棍棒；杆
+5808,tank,1 n [军]战车，坦克2 n 贮水池，池塘
+5809,focus,n （[pl]focuses，foci）焦点  v 集中注意力于
+5810,evaporate,v 蒸发，挥发
+5811,subtractive,a 减少的
+5812,tolerance,n 忍受；容忍；耐性；耐受性
+5813,needy,a 贫穷的，贫困的
+5814,saddle,n 马鞍；鞍
+5815,virtue,1 n 价值，长处，优点2 n 效能，效力，功效
+5816,chief,1 a 主要的2 n 酋长
+5817,differentiate,v 使有差别，区别，划分，区分
+5818,mental,a 智（脑）力的；精神的，思想的；心理的（[opp]corporal）
+5819,abandon,v 扔弃（地位等），离弃（家园）
+5820,vantage,n 优势；优越的地位
+5821,exuberant,a （感情等）充溢的；（活力）充沛的，（精神）旺盛的
+5822,specimen,n 样本，样品，实例，例子；标本
+5823,debate,n&v 辩论；讨论
+5824,silt,n 泥沙，淤泥（沉积处）
+5825,origin,n 根源，起因，由来；出身，来历
+5826,percussion,n 敲打，打击；（乐队的）打击乐器组
+5827,acquire,v 获得
+5828,monetary,a 货币的；金钱的；金融的；财政（上）的
+5829,implicit,a 含蓄的，不讲明的（[opp]explicit）
+5830,profession,n 职业，（特指）知识性专门职业（[opp]trade，business）
+5831,enterprise,n 努力，进取
+5832,wheat,n 小麦
+5833,onset,n 开始，动手；攻击，突击
+5834,carriage,n 车；（四轮）马车
+5835,eccentric,a 异常的，反常的
+5836,harbor,n 海港，港口，避难所，藏身处
+5837,antibiotic,n 抗生素
+5838,satellite,n 卫星；人造卫星
+5839,undergraduate,a&n 大学生（的）
+5840,costume,n 服装
+5841,adolescent,a 青年期的，青春期的  n 少年
+5842,topography,n 地形，地势；地形（测量）学
+5843,flaw,n 瑕疵，缺点
+5844,curriculum,n （[pl]curriculums，curricula）课程
+5845,kettle,n （烧水用的）水壶，水锅
+5846,triangle,n 三角形；三角形的东西；三角板
+5847,cue,n 暗示，指示，线索
+5848,federal,a （美国）联邦政府的，中央政府的
+5849,embody,v 包含，收录
+5850,hibernate,v 冬眠；蛰居；越冬
+5851,lyric,n 抒情诗；抒情作品
+5852,bond,n 结合（物），结合力，黏合（剂），联结，束缚，羁绊
+5853,shore,n 岸；海岸；滨
+5854,comprehensive,a 广泛的，全面的，完整的
+5855,investigate,v 研究，调查；审查
+5856,sprout,v 发芽，萌芽
+5857,silver,n 银；银器  a 银的
+5858,concerning,prep 关于，论及
+5859,absent,a 不在的，缺席的
+5860,intoxication,n 中毒；醉
+5861,rehabilitate,v 改善，复兴，使复原
+5862,institution,n 惯例，制度，规定
+5863,astute,a 机敏的，伶俐的，狡猾的
+5864,draft,1 a （马等）拉车用的，供役使的2 v 起草，拟（方案）；画（草图，轮廓），为……打样，设计  a 正在起草的
+5865,plunge,v 跳进，掉进，钻进（into）
+5866,vibrant,a 生气勃勃的
+5867,spectrum,n 光谱；波谱；范围，幅度
+5868,receptacle,n 容器，贮藏所
+5869,millennium,n [pl]millennia一千年（间）；千周年纪念
+5870,agitation,n （民众的）骚动，兴奋
+5871,recede,v 后退，退却（[opp]advance）
+5872,ticket,n 票，入场券，车票
+5873,endeavor,n&v 努力，尽力
+5874,pride,n 自大，骄傲，傲慢，自豪；得意
+5875,leisure,a&n 空闲（的），闲暇（的）；悠闲（的），安逸（的）
+5876,prejudice,n 偏见，成见；歧视
+5877,trough,n 波谷；[数]凹点（[opp]ridge）
+5878,contribute,v 出力，做出贡献
+5879,seldom,a&ad 不常的；很少的；难得的（[opp]often）
+5880,hypersensitive,a 过敏的，过敏性的
+5881,squat,v 蹲；坐  n 蹲伏的位置（姿势）  a 蹲着的
+5882,random,a 任意的，随机的
+5883,conform,v 使一致；依照（习惯）；使遵照（to）
+5884,skeptical,a 怀疑性的，好怀疑的（[opp]convinced）
+5885,friction,n 摩擦，阻力
+5886,boast,v 以有……而自豪，有……可以夸耀；包含；吹嘘
+5887,impact,1 n 碰撞2 n&v 影响
+5888,deity,n 神；神性；神的身份
+5889,welfare,n 福利（事业）；繁荣，兴隆
+5890,pretension,n （有根据的）要求；主张
+5891,poll,n 民意测验
+5892,hinge,v 看……而定，以……为转移（on；upon）
+5893,keen,a 敏锐的，敏捷的
+5894,swamp,n 沼泽，沼地，湿地
+5895,methane,n 甲烷，沼气
+5896,luxury,a&n 奢侈（的）；奢侈品（的）
+5897,thousandfold,a&ad&n 成千倍（的、地）；千倍（的、地）
+5898,casualty,n 伤亡（人数）；事故，横祸
+5899,plague,n 瘟疫，传染病；灾害
+5900,pluck,v 拔，扯（羽毛等）；采，摘（华、果实）
+5901,mural,n 壁画；壁饰  a 墙壁（上）的；墙壁似的
+5902,destructive,a 破坏性的；有害的
+5903,hatch,v 孵化，孵，创造，使发生
+5904,intrinsic,a 内部的，体内的（[opp]extrinsic）
+5905,granite,n 花岗岩，花岗石
+5906,equilibrium,n 平衡，均衡
+5907,epoch,n 纪元，时代；时期
+5908,disrepute,n 坏名声，声名狼藉
+5909,divert,v 使转向，使转移（from，to）；使消遣，使解闷，使娱乐
+5910,gear,n 齿轮，（齿轮）传动装置，齿链；排档
+5911,accord,v 一致，与……符合（with）
+5912,bugle,n 军号，喇叭；（狩猎时用的）号，角，笛
+5913,patience,n 忍耐，容忍，忍受；耐心，耐性
+5914,skeleton,n 骨骼，骷髅；骨架；（叶子的）脉络；筋
+5915,procedure,n 工序，过程，步骤
+5916,chest,1 n 箱，柜，匣2 n 胸部，胸腔
+5917,baboon,n 狒狒
+5918,halt,v 停止；暂停前进
+5919,repertoire,1 n （排好待演的）常备剧目，演奏节目；保留节目2 n 全部技能；所有组成部分
+5920,stately,a 庄严的，堂皇的；宏伟的，华贵的
+5921,affair,n 事情，事件；（常[pl]）事务；事态
+5922,appropriate,1 a 适当的，合适的2 v 挪用，盗用
+5923,kernel,n （果实的）核，仁
+5924,medieval,a 中世纪的，仿中世纪的，老式的
+5925,bend,v 弄弯，使弯曲
+5926,lust,v 渴望，热烈追求  n 欲望，贪欲
+5927,beak,n （猛禽等的）嘴，喙
+5928,dwell,v [书]住，居住
+5929,refrigerate,v 冷藏，冷冻
+5930,ledge,1 n 壁架2 n （岩石突出的）岩架；岩礁；暗礁
+5931,incentive,n 刺激；鼓励；动机  a 刺激性的，鼓励性质的
+5932,superb,a 极好的，超等的，宏伟的，壮丽的
+5933,conjunction,n 结合，连接
+5934,phase,n 形势，局面，状态；阶段
+5935,cabinet,1 n 柜，箱2 n 陈列室；（矿物、生物、古钱币等）陈列品
+5936,recognition,1 n 认识；识别2 n 承认，认可3 n 褒奖，赞誉
+5937,translucent,a 半透明的
+5938,mimic,n 仿造物  a 模仿的，模拟的，假的
+5939,ooze,1 v 渗出，徐徐流出，滴出，分泌2 n （海底、河底的）淤泥；沼地；分泌物
+5940,mobility,n 可动性，活动性，能动性；灵活性，可变动性
+5941,incredible,a 不可思议的；惊人的
+5942,magnetic,a 磁（性）的；（可）磁化的
+5943,collide,v （车等）碰撞（with）；（意志等）冲突，抵触（with）
+5944,tariff,n 关税（表），税率（表），税则
+5945,drought,n 旱灾，干旱
+5946,fidelity,n 忠诚，忠实（to）；真实，翔实
+5947,subsidize,v 给……补助金，给……津贴，向……发放奖金
+5948,suspect,v 怀疑，觉得可疑，猜疑  a 可疑的
+5949,canyon,n 峡（谷）
+5950,isolate,v 隔离，使孤立
+5951,mill,n 磨坊，厂，工场
+5952,violate,v 违犯，违反，破坏
+5953,livelihood,n 生活，生计
+5954,institute,n 协会，学会；学院
+5955,orientation,n 方向；定向；取向
+5956,guarantee,n&v 保证，担保
+5957,geomagnetic,a 地磁的
+5958,hemisphere,n 半球
+5959,swarm,1 n （昆虫的）群，蜂群；大群；大堆2 v 蜂拥而至，涌往；挤满；充满
+5960,oyster,n 蚝，牡蛎
+5961,identical,a 同一的；同样的
+5962,commute,v 使用长期票经常旅行（来往），通勤来往（between）
+5963,cart,n （二轮运货）马车，大车；手推车
+5964,renew,v 重新开始，重订，更改（契约等）
+5965,resolution,1 n 解决2 n [自]分辨（力）
+5966,ceiling,n 天花板，顶板
+5967,signature,n 签名，盖章
+5968,handedness,n 惯用左手（右手）
+5969,irony,n 讽刺，讥讽
+5970,emphasize,v 强调，着重
+5971,commission,n&v 委托
+5972,willow,n 柳
+5973,confer,v 授予，颁予（称号、学位等）
+5974,height,n 高，高度；身高；海拔
+5975,intervene,v 插进；介入
+5976,constant,1 a 稳定的，恒久的2 a 继续不断的
+5977,devoid,a 无一的，缺……的（of）
+5978,genre,n （文艺作品的）类型，（诗、剧、小说、散文的）体裁
+5979,subsequent,a 其后的，其次的；作为结果而发生的（[opp]preceding）
+5980,switch,n&v 转换，转变；调配
+5981,bay,n 湾，海湾，（山中的）凹地
+5982,territory,1 n 领土，版图，领地2 n （野鸟的）生活范围3 n （科学知识、行动等的）领域，范围
+5983,notion,n 意见，见解，想法，看法，观点；学说
+5984,strategy,n 战略（学）；策略，作战方针
+5985,legislation,n 立法；法规；立法机构的审议事项
+5986,hive,n 蜂巢，蜂房，蜂箱
+5987,in terms of,根据，按照，用……的话说，在……方面
+5988,echo,n 回声，反响  v 共鸣
+5989,worm,n 蠕虫；虫，蛆
+5990,reputation,n 名气，名声，名誉；名望
+5991,defend,v 保卫（国家等）；防御，防守，保护……使免于（from，against）
+5992,pry,v （用杠杆等）撬，撬起，撬动；（用尽方法）使脱离
+5993,thermodynamics,n 热力学
+5994,shrink,n&v 收缩，缩水；退缩
+5995,vacuum,n 真空
+5996,lash,v 捆绑
+5997,extent,n 程度；广度
+5998,stem,1 n 茎，干，梗；叶柄，花梗，果柄2 v 起源于，起因于，（由……）发生，来自3 n 种族，血统，家系
+5999,impediment,n 妨碍，阻碍（to）；障碍物
